@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}
+	Stopwatch
+{% endblock %}
+
+{% block generator %}
+	<h1>{{generated_number}}</h1>
+	<h2>{{form}}</h2>
+{% endblock generator %}
+
+{% block button %}
+	<div class="stopwatch_el">
+		<form method="POST">
+			<input type="submit" name="sw_start_btn" value="Start" class="sw_start_btn">
+			<input type="submit" name="sw_stop_btn" value="Stop" class="sw_stop_btn">
+		</form>
+	</div>
+{%  endblock %}
