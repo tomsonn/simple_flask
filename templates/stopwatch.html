@@ -6,23 +6,30 @@
 
 {% block styles %}
 	{{ super() }}
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
 {% endblock %}
 
 {% block stopwatch %}
 	<div class="elapsedTime">
-		<p id="elapsedTime"></p>
-	</div>
-	<div class="elapseLaps">
-
+		<p id="elapsedTime">0</p>
 	</div>
 
 	{% block button %}
 	<div class="stopwatch_buttons" align="center">
 		<input type="button" class="stopwatch_button" id="sw_start_btn" value="START"></button>
-		<input type="button" class="stopwatch_button" id="sw_stop_btn" value="STOP"></button>
 	</div>
 	{%  endblock %}
+
+
+	<div class="elapsedLaps">
+		<div class="left" id="_laps">
+		</div>
+		<div class="middle" id="_lap_times">
+		</div>
+		<div class="right" id="_overall_time">
+		</div>
+	</div>
 {% endblock %}
 
 {% block scripts %}

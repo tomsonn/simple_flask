@@ -1,5 +1,4 @@
 div.elapsedTime {
-	background: green;
 	display: flex;
 	justify-content: center;
 	width: 100%;
@@ -11,28 +10,99 @@ div.elapsedTime p {
 	font-size: 128px; 
 }
 
+div.elapsedLaps {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -40%);
+	width: 70%;
+	height: 25%;
+}
+
+div.elapsedLaps div.left {
+	/*background: blue;*/
+	position: absolute;
+	width: 33.3%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+div.elapsedLaps div.middle {
+	/*background: black;*/
+	position: absolute;
+	width: 33.3%;
+	height: 100%;
+	top: 0;
+	left: 33.3%;
+}
+
+div.elapsedLaps div.right {
+	/*background: green;*/
+	position: absolute;
+	width: 33.4%;
+	height: 100%;
+	top: 0;
+	left: 66.6%;
+}
+
+p.title {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+}
+
+p.time {
+	text-align: center;
+	font-size: 22px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+}
+
 .stopwatch_button {
-	color: #80A3D5 !important;
 	text-transform: uppercase;
-	color: black;
 	background: #ffffff;
-	border: 4px solid #80A3D5 !important;
 	border-radius: 6px;
 	display: inline-block;
-	/*padding: 20px;*/
 	transition: all 0.3s ease 0s;
 	width: 100px;
 	height: 50px;
 	margin: 10px;
 }
 
-.stopwatch_button:hover {
+#sw_stop_btn.stopwatch_button {
+	color: #E72200 !important;
+	border: 4px solid #E72200 !important;
+}
+
+#sw_start_btn.stopwatch_button,
+#sw_resume_btn.stopwatch_button {
+	color: #009989 !important;
+	border: 4px solid #009989 !important;
+}
+
+#sw_lap_btn.stopwatch_button,
+#sw_reset_btn.stopwatch_button {
+	color: #4d4d45 !important;
+	border: 4px solid #4d4d45 !important;
+}
+
+#sw_start_btn.stopwatch_button:hover,
+#sw_stop_btn.stopwatch_button:hover,
+#sw_resume_btn.stopwatch_button:hover,
+#sw_reset_btn.stopwatch_button:hover,
+#sw_lap_btn.stopwatch_button:hover {
 	color: #001839 !important;
 	border-radius: 50px;
 	border-color: #001839 !important;
 	transition: all 0.3s ease 0s;
 }
 
-.stopwatch_button:focus {
+#sw_start_btn.stopwatch_button:focus,
+#sw_stop_btn.stopwatch_button:focus,
+#sw_resume_btn.stopwatch_button:focus
+#sw_reset_btn.stopwatch_button:focus,
+#sw_lap_btn.stopwatch_button:focus {
 	outline: none !important;
 }
