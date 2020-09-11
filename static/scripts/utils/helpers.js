@@ -1,3 +1,4 @@
+// CUSTOM EXCEPTIONS region
 function BadButtonType(errorMessage, type) {
 	const error = new Error(errorMessage);
 	error.buttonType = type;
@@ -11,12 +12,13 @@ function BadParagraphType(errorMessage, type) {
 
 	return error;
 }
+// end of CUSTOM EXCEPTIONS region
 
+// BUTTON MANIPULATION region
 export function createButton(buttonType) {
 	// Create a DOM element based on type, which is passed as parameter to function
 	// elements type is `input` with `type=button`);
 	// If bad type is passed to function as parameter, an exceptions is thrown
-
 	let button = document.createElement('input');
 	button.setAttribute('type', 'button');
 	button.setAttribute('class', 'stopwatch_button');
@@ -41,6 +43,9 @@ export function createButton(buttonType) {
 }
 
 export function createP(type, content) {
+	// Create a DOM element based on type, which is passed as parameter to function
+	// elements type is `p` with desired classes and content;
+	// If bad type is passed to function as parameter, an exceptions is thrown
 	let p = document.createElement('p');
 
 	if (type == 'lap') {
@@ -60,7 +65,9 @@ export function createP(type, content) {
 }
 
 export function removeAllChildNodes(parent) {
+	// Remove child nodes from parent DOM element
 	while (parent.firstChild) {
         parent.removeChild(parent.firstChild);
     }
 }
+// end of BUTTON MANIPULATION region
