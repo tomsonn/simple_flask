@@ -34,13 +34,11 @@ export default class Stopwatch {
 		// set when user presses START button and `actualTime`, which updates 
 		// every iteration of `updateTime` function
 		let actualTime = new Date().getTime();
-		let timeDeltaReal = Math.abs(this.startTime - actualTime);
-		let timeDeltaDisplayed = (timeDeltaReal / 1000).toFixed(1);
-		this.totalElapsedTime = timeDeltaReal;
-		this.perLapTime = this.totalElapsedTime - this.overallTime;
+		let timeDelta = Math.abs(this.startTime - actualTime) / 1000;
+		this.totalElapsedTime = timeDelta;
 
 		// Update DOM element with actual `timeDelta`
-		this.printToElement(this.elapsedTimeParagraph, timeDeltaDisplayed);
+		this.printToElement(this.elapsedTimeParagraph, this.totalElapsedTime.toFixed(1));
 	}
 
 	start() {
@@ -67,10 +65,10 @@ export default class Stopwatch {
 	}
 
 	reset() {
-		this.totalElapsedTime = 0;
-		this.overallTime = 0;
-		this.totalElapsedLaps = 0;
-		this.perLapTime = 0;
+		this.totalElapsedTime = 0.0;
+		this.overallTime = 0.0;
+		this.totalElapsedLaps = 0.0;
+		this.perLapTime = 0.0;
 
 		this.printToElement(this.elapsedTimeParagraph, 0);
 
@@ -116,9 +114,15 @@ export default class Stopwatch {
 			this.lapsDiv.isSet = true;
 		}
 
+		if (this.lapsDiv.laps.childElementCount == 5) {
+			this.lapsDiv.laps.removeChild(this.lapsDiv.laps.children[4]);
+			this.lapsDiv.lapTimes.removeChild(this.lapsDiv.lapTimes.children[4]);
+			this.lapsDiv.overallTime.removeChild(this.lapsDiv.overallTime.children[4]);
+		}
+
 		pLeft = createP('lap', this.totalElapsedLaps);
-		pMiddle = createP('lap_times', this.perLapTime);
-		pRight = createP('overall_time', this.overallTime);
+		pMiddle = createP('lap_times', this.perLapTime.toFixed(1));
+		pRight = createP('overall_time', this.overallTime.toFixed(1));
 
 		this.lapsDiv.laps.insertBefore(pLeft, this.lapsDiv.laps.children[1]);
 		this.lapsDiv.lapTimes.insertBefore(pMiddle, this.lapsDiv.lapTimes.children[1]);
