@@ -101,7 +101,7 @@ p.time {
 
 #sw_start_btn.stopwatch_button:focus,
 #sw_stop_btn.stopwatch_button:focus,
-#sw_resume_btn.stopwatch_button:focus
+#sw_resume_btn.stopwatch_button:focus,
 #sw_reset_btn.stopwatch_button:focus,
 #sw_lap_btn.stopwatch_button:focus {
 	outline: none !important;
