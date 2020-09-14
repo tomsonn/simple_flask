@@ -5,6 +5,8 @@ from utils.helpers import get_random_number
 from flask import Flask, render_template, session, request, url_for
 from flask_bootstrap import Bootstrap
 
+from classes.kupi_scrapper import KupiScrapper
+
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 bootstrap = Bootstrap(app)
@@ -32,7 +34,9 @@ def stopwatch():
 
 @app.route('/minigames/cheap-food', methods=['POST', 'GET'])
 def cheap_food():
-	return render_template('cheap_food.html')
+	kupi_scrapper = KupiScrapper()
+	cat_resp = kupi_scrapper.scrape_categories()
+	return render_template('cheap_food.html', response=cat_resp)
 
 
 if __name__ == '__main__':
