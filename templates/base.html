@@ -26,7 +26,7 @@
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav">
 	        <li class="home_li"><a href="{{ url_for('home') }}">Home</a></li>
-	        <li class="user_li"><a href="user/{{ user }}">User</a></li>
+	        <li class="user_li"><a href="{{ url_for('kupi') }}">Kupi Scrapper</a></li>
 	        <li class="login_li"><a href="{{ url_for('login') }}">Login</a></li>
 	        <li class="logout_li"><a href="{{ url_for('logout') }}">Logout</a></li>
 	        <li class="dropdown">
@@ -50,9 +50,6 @@
 {% endblock %}
 
 {% block content %}
-	<h1>
-		{% block h1_content %}{% endblock %}
-	</h1>
 	{% block stopwatch %}
 	{% endblock %}
 {% endblock %}

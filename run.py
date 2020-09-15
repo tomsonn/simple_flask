@@ -16,9 +16,11 @@ bootstrap = Bootstrap(app)
 def home():
 	return render_template('index.html')
 
-@app.route('/user/<user>')
-def user(user):
-	return render_template('user.html', user=user)
+@app.route('/kupi')
+def kupi():
+	kupi_scrapper = KupiScrapper()
+	categories_dict = kupi_scrapper.scrape_categories()
+	return render_template('kupi.html', categories=categories_dict)
 
 @app.route('/login')
 def login():

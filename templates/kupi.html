@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}
+	Kupi Scrapper
+{% endblock %}
+
+{% block content %}
+	{% block h1_content %}
+		<h1>KUPI SCRAPPER</h1>
+	{% endblock %}
+	{% for key, value in categories.items() %}
+		<p>{{ key }}: {{ value }}</p>
+	{% endfor %}
+{% endblock %}
