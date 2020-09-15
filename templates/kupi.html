@@ -4,11 +4,26 @@
 	Kupi Scrapper
 {% endblock %}
 
+{% block styles %}
+	{{ super() }}
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/kupi.css') }}">
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet">
+{% endblock %}
+
 {% block content %}
-	{% block h1_content %}
-		<h1>KUPI SCRAPPER</h1>
-	{% endblock %}
+<div class="scrapper">
+	<div class="kupi-title">
+		Kupi Scrapper
+	</div>
+	<div class="kupi-categories">
 	{% for key, value in categories.items() %}
-		<p>{{ key }}: {{ value }}</p>
+		<div class="category-item-left">
+			<p class="category-item key">{{ key }}</p>
+		</div>
+		<div class="category-item-right">
+			<p class="category-item value">{{ value }}</p>
+		</div>
 	{% endfor %}
+	</div>
+</div>
 {% endblock %}

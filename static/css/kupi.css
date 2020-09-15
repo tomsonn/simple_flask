@@ -1,0 +1,47 @@
+.scrapper {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin-top: -20px;
+}
+
+.kupi-title {
+	position: absolute;
+	top: 0%;
+	left: 50%;
+	transform: translate(-50%, 0%);
+	width: 30%;
+	height: 10%;
+	margin-top: 10px;
+	font-family: 'Merriweather', serif;
+	font-weight: 700;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.kupi-categories {
+	position: absolute;
+	top: 10%;
+	left: 20%;
+	width: 60%;
+	padding-top: 10px;
+}
+
+.category-item {
+	font-family: 'Merriweather', serif;
+	font-weight: 300;
+	font-size: 20px;
+	padding: 7px;
+	text-align: center;
+}
+
+.category-item-left {
+	width: 50%;
+	float: left;
+}
+
+.category-item-right {
+	width: 50%;
+	float: left;
+}
