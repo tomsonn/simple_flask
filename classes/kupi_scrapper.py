@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+from utils.helpers import write_item_to_json
+
 from bs4 import BeautifulSoup
 
 import json
@@ -12,8 +14,8 @@ class KupiScrapper:
 
 	def __init__(self):
 		self.URL_BASE = 'https://www.kupi.cz'
-		self.ENDPOINT_CATEGORIES = '/slevy'
-		self.ENDPOINT_SHOPS = '/letaky/hypermarkety-a-supermarkety'
+		self.ENDPOINT_DISCOUNTS = '/slevy'
+		self.ENDPOINT_LEAFLETS = '/letaky/hypermarkety-a-supermarkety'
 
 	def get_html_from_url(self, url):
 		try:
@@ -24,7 +26,7 @@ class KupiScrapper:
 			print(f'Couldn\'t get HTML content of {url} endpoint.')
 
 	def scrape_categories(self):
-		URL_CATEGORIES = self.URL_BASE + self.ENDPOINT_CATEGORIES
+		URL_CATEGORIES = self.URL_BASE + self.ENDPOINT_DISCOUNTS
 		categories_html = self.get_html_from_url(URL_CATEGORIES)
 
 		try:
@@ -45,7 +47,7 @@ class KupiScrapper:
 		return categories_dict
 
 	def scrape_shops(self):
-		URL_SHOPS = self.URL_BASE + self.ENDPOINT_SHOPS
+		URL_SHOPS = self.URL_BASE + self.ENDPOINT_LEAFLETS
 		shops_html = self.get_html_from_url(URL_SHOPS)
 
 		try:
@@ -63,10 +65,46 @@ class KupiScrapper:
 
 		return shops_dict
 
+	def scrape_items_by_categories_and_shops(self, categories, shops):
+		categories_endpoints_list = list(categories.values())
+		shops_endpoints_list = [shop_endpoint.split('/')[-1] for shop_endpoint in shops.values()]
+
+		URL_ITEMS = f'{self.URL_BASE}{categories_endpoints_list[0]}/{shops_endpoints_list[0]}?page=40'
+		items_html = self.get_html_from_url(URL_ITEMS)
+		try:
+			soup = BeautifulSoup(items_html, 'html.parser')
+		except: 
+			print(f'Couldn\'t scrape kupi.cz HTML to get items from category {list(categories.keys())[0]} from {list(shops.keys())[0]}.')
+
+		page_number = 1
+		while True:
+			items_el_parent = soup.find_all('div', {'class': 'group_discounts', 'data-page': f'{page_number}'})
+			if not items_el_parent:
+				break
+			
+			for item_el_parent in items_el_parent:
+				item_el = item_el_parent.findChildren('div', {'class': 'log_product product_name wide'})[0]
+
+				# TODO shops, price
+				item_details = {
+					'name': item_el.h2.a.get('title'),
+					'amount': item_el.h2.span.text.strip(),
+					'endpoint': item_el.h2.a.get('href'),
+					'data-product': item_el.h2.a.get('data-product')
+					# 'shops':
+					# 'price':
+				}
+				print(item_details)
+				write_item_to_json(item_details)
+
+			page_number += 1
+		
+
 def main():
 	kupi_scrapper = KupiScrapper()
 	categories_dict = kupi_scrapper.scrape_categories()
 	shops_dict = kupi_scrapper.scrape_shops()
+	kupi_scrapper.scrape_items_by_categories_and_shops(categories_dict, shops_dict)
 
 if __name__ == '__main__':
 	main()

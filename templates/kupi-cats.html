@@ -1,0 +1,16 @@
+{% extends "kupi.html" %}
+
+{% block styles %}
+	{{ super() }}
+{% endblock %}
+
+{% block kupi_types %}
+	{% for key, value in categories.items() %}
+		<div class="category-item-left">
+			<p class="category-item key">{{ key }}</p>
+		</div>
+		<div class="category-item-right">
+			<p class="category-item value">{{ value }}</p>
+		</div>
+	{% endfor %}
+{% endblock %}

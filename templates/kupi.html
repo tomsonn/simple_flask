@@ -11,19 +11,21 @@
 {% endblock %}
 
 {% block content %}
-<div class="scrapper">
-	<div class="kupi-title">
-		Kupi Scrapper
+	<div class="scrapper">
+		{% block kupi %}
+			<div class="kupi-title">
+				{% block kupi_title %}Kupi Scrapper{% endblock %}
+			</div>
+			{% block buttons %}
+			<div class=buttons>
+				<a href="{{ url_for('kupi', kupi_type='categories') }}" class="button"><span class="button-title">Categories</span></a>
+				<a href="{{ url_for('kupi', kupi_type='shops') }}" class="button"><span class="button-title">Shops</span></a>
+			</div>
+			{% endblock %}
+			<div class="kupi-categories">
+				{% block kupi_types %}
+				{% endblock %}
+			</div>
+		{% endblock %}
 	</div>
-	<div class="kupi-categories">
-	{% for key, value in categories.items() %}
-		<div class="category-item-left">
-			<p class="category-item key">{{ key }}</p>
-		</div>
-		<div class="category-item-right">
-			<p class="category-item value">{{ value }}</p>
-		</div>
-	{% endfor %}
-	</div>
-</div>
 {% endblock %}

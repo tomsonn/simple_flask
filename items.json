@@ -1,0 +1,181 @@
+{
+    "name": "Bo\u017ekov Original Tuzemsk\u00fd",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/bozkov-original-tuzemsky",
+    "data-product": "bozkov-original-tuzemsky"
+}{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Svijansk\u00fd M\u00e1z Svijany",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-svijansky-maz-svijany",
+    "data-product": "pivo-svetly-lezak-11-svijansky-maz-svijany"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Origin\u00e1l 10\u00b0 Gambrinus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-original-10-gambrinus",
+    "data-product": "pivo-svetle-vycepni-original-10-gambrinus"
+}{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Medium Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-medium-velkopopovicky-kozel",
+    "data-product": "pivo-svetly-lezak-11-medium-velkopopovicky-kozel"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0  Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-velkopopovicky-kozel",
+    "data-product": "pivo-svetle-vycepni-10-velkopopovicky-kozel"
+}{
+    "name": "Whisky irsk\u00e1 Tullamore Dew",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-irska-tullamore-dew",
+    "data-product": "whisky-irska-tullamore-dew"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Bran\u00edk",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-branik",
+    "data-product": "pivo-svetle-vycepni-10-branik"
+}{
+    "name": "Whisky Honey Jack Daniel's",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-honey-jack-daniel-s",
+    "data-product": "whisky-honey-jack-daniel-s"
+}{
+    "name": "Becherovka",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/becherovka",
+    "data-product": "becherovka"
+}{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Excelent Gambrinus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-excelent-gambrinus",
+    "data-product": "pivo-svetly-lezak-11-excelent-gambrinus"
+}{
+    "name": "Nealkoholick\u00e9 pivo ochucen\u00e9 Birell",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-ochucene-birell",
+    "data-product": "nealkoholicke-pivo-ochucene-birell"
+}{
+    "name": "Fernet Stock",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/fernet-stock",
+    "data-product": "fernet-stock"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed R\u00e1zn\u00e1 10\u00b0 Radegast",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-razna-10-radegast",
+    "data-product": "pivo-svetle-vycepni-razna-10-radegast"
+}{
+    "name": "Bo\u017ekov Tradi\u010dn\u00ed",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/bozkov-tradicni",
+    "data-product": "bozkov-tradicni"
+}{
+    "name": "Rum Republica Exclusive Bo\u017ekov",
+    "amount": "",
+    "endpoint": "/sleva/rum-republica-exclusive-bozkov",
+    "data-product": "rum-republica-exclusive-bozkov"
+}{
+    "name": "Whisky Jameson",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-jameson",
+    "data-product": "whisky-jameson"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-staropramen",
+    "data-product": "pivo-svetle-vycepni-10-staropramen"
+}{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k B: Original Budweiser Budvar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-b-original-budweiser-budvar",
+    "data-product": "pivo-svetly-lezak-b-original-budweiser-budvar"
+}{
+    "name": "Bo\u017ekov Original Tuzemsk\u00fd",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/bozkov-original-tuzemsky",
+    "data-product": "bozkov-original-tuzemsky"
+}{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Svijansk\u00fd M\u00e1z Svijany",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-svijansky-maz-svijany",
+    "data-product": "pivo-svetly-lezak-11-svijansky-maz-svijany"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Origin\u00e1l 10\u00b0 Gambrinus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-original-10-gambrinus",
+    "data-product": "pivo-svetle-vycepni-original-10-gambrinus"
+}{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Medium Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-medium-velkopopovicky-kozel",
+    "data-product": "pivo-svetly-lezak-11-medium-velkopopovicky-kozel"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0  Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-velkopopovicky-kozel",
+    "data-product": "pivo-svetle-vycepni-10-velkopopovicky-kozel"
+}{
+    "name": "Whisky irsk\u00e1 Tullamore Dew",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-irska-tullamore-dew",
+    "data-product": "whisky-irska-tullamore-dew"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Bran\u00edk",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-branik",
+    "data-product": "pivo-svetle-vycepni-10-branik"
+}{
+    "name": "Whisky Honey Jack Daniel's",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-honey-jack-daniel-s",
+    "data-product": "whisky-honey-jack-daniel-s"
+}{
+    "name": "Becherovka",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/becherovka",
+    "data-product": "becherovka"
+}{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Excelent Gambrinus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-excelent-gambrinus",
+    "data-product": "pivo-svetly-lezak-11-excelent-gambrinus"
+}{
+    "name": "Nealkoholick\u00e9 pivo ochucen\u00e9 Birell",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-ochucene-birell",
+    "data-product": "nealkoholicke-pivo-ochucene-birell"
+}{
+    "name": "Fernet Stock",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/fernet-stock",
+    "data-product": "fernet-stock"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed R\u00e1zn\u00e1 10\u00b0 Radegast",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-razna-10-radegast",
+    "data-product": "pivo-svetle-vycepni-razna-10-radegast"
+}{
+    "name": "Bo\u017ekov Tradi\u010dn\u00ed",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/bozkov-tradicni",
+    "data-product": "bozkov-tradicni"
+}{
+    "name": "Rum Republica Exclusive Bo\u017ekov",
+    "amount": "",
+    "endpoint": "/sleva/rum-republica-exclusive-bozkov",
+    "data-product": "rum-republica-exclusive-bozkov"
+}{
+    "name": "Whisky Jameson",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-jameson",
+    "data-product": "whisky-jameson"
+}{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-staropramen",
+    "data-product": "pivo-svetle-vycepni-10-staropramen"
+}{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k B: Original Budweiser Budvar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-b-original-budweiser-budvar",
+    "data-product": "pivo-svetly-lezak-b-original-budweiser-budvar"
+}

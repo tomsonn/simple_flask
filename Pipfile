@@ -10,6 +10,7 @@ flask = "*"
 flask-bootstrap = "*"
 requests = "*"
 beautifulsoup4 = "*"
+simple-flask = {editable = true,path = "."}
 
 [requires]
 python_version = "3.7"
