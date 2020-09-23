@@ -4,6 +4,32 @@
 	Home
 {% endblock %}
 
+{% block styles %}
+	{{ super() }}
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+{% endblock %}
+
 {% block content %}
-	<h1>Hello World from Flask!</h1>
+	<div class=header>
+		<div class="title">
+			<p>Hello World from Flask & Kupi scrapper!</p>
+		</div>
+	</div>
+	<div class="content">
+		<div class="main-text center">
+			<p class="main-p top">This site was created for learning purposes. For now it does contain two main applications. The first is scrapper of <span class='bold'>Kupi.cz</span>. The second one is a simple <span class='bold'>stopwatch</span> application made in Javascript.</p>
+			<p class="main-p">More details about functionality of both - scrapper and stopwatch are in <span class="bold">About</span> section. There is a plan to add something more - some other <span class="bold">useless</span> application.
+		</div>
+		<div class="buttons center">
+			<a href="{{ url_for('kupi') }}" class="button">
+				<span>Kupi Scrapper</span>
+			</a>
+			<a href="{{ url_for('stopwatch') }}" class="button">
+				<span>Stopwatch</span>
+			</a>
+		</div>
+	</div>
+
 {% endblock %}

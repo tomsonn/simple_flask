@@ -1,0 +1,768 @@
+{
+    "name": "Ban\u00e1ny",
+    "amount": "1 kg",
+    "endpoint": "/sleva/banany",
+    "data-product": "banany",
+    "shops": [
+        "Penny Market",
+        "Tesco ",
+        "Tesco "
+    ]
+},
+{
+    "name": "Raj\u010data cherry",
+    "amount": "",
+    "endpoint": "/sleva/rajcata-cherry",
+    "data-product": "rajcata-cherry",
+    "shops": [
+        "Penny Market",
+        "JIP Cash & Carry",
+        "JIP maloobchod",
+        "Lidl"
+    ]
+},
+{
+    "name": "Okurka hadovka",
+    "amount": "1 ks",
+    "endpoint": "/sleva/okurka-hadovka",
+    "data-product": "okurka-hadovka",
+    "shops": [
+        "Penny Market"
+    ]
+},
+{
+    "name": "Mandarinky",
+    "amount": "1 kg",
+    "endpoint": "/sleva/mandarinky",
+    "data-product": "mandarinky",
+    "shops": [
+        "BILLA",
+        "Albert supermarket",
+        "Kaufland",
+        "Penny Market"
+    ]
+},
+{
+    "name": "Citrony",
+    "amount": "",
+    "endpoint": "/sleva/citrony",
+    "data-product": "citrony",
+    "shops": [
+        "Globus",
+        "JIP Cash & Carry",
+        "JIP maloobchod",
+        "Tesco ",
+        "Albert supermarket",
+        "Penny Market"
+    ]
+},
+{
+    "name": "Paprika \u010derven\u00e1",
+    "amount": "1 kg",
+    "endpoint": "/sleva/paprika-cervena",
+    "data-product": "paprika-cervena",
+    "shops": [
+        "Globus",
+        "Kaufland",
+        "BILLA"
+    ]
+},
+{
+    "name": "Raj\u010data ke\u0159\u00edkov\u00e1",
+    "amount": "1000 g",
+    "endpoint": "/sleva/rajcata-kerikova",
+    "data-product": "rajcata-kerikova",
+    "shops": [
+        "Penny Market"
+    ]
+},
+{
+    "name": "Hrozny b\u00edl\u00e9 bezsemenn\u00e9",
+    "amount": "0.5 kg",
+    "endpoint": "/sleva/hrozny-bile-bezsemenne",
+    "data-product": "hrozny-bile-bezsemenne",
+    "shops": [
+        "Kaufland",
+        "Penny Market",
+        "Lidl",
+        "Tesco ",
+        "Globus",
+        "BILLA"
+    ]
+},
+{
+    "name": "Cibule kuchy\u0148sk\u00e1 \u017elut\u00e1",
+    "amount": "",
+    "endpoint": "/sleva/cibule-kuchynska-zluta",
+    "data-product": "cibule-kuchynska-zluta",
+    "shops": [
+        "Lidl",
+        "Kaufland"
+    ]
+},
+{
+    "name": "Sal\u00e1t ledov\u00fd",
+    "amount": "1 ks",
+    "endpoint": "/sleva/salat-ledovy",
+    "data-product": "salat-ledovy",
+    "shops": [
+        "Globus",
+        "Tesco ",
+        "Penny Market",
+        "Lidl"
+    ]
+},
+{
+    "name": "Kv\u011bt\u00e1k",
+    "amount": "1 ks",
+    "endpoint": "/sleva/kvetak",
+    "data-product": "kvetak",
+    "shops": [
+        "Globus"
+    ]
+},
+{
+    "name": "Brambory konzumn\u00ed pozdn\u00ed",
+    "amount": "",
+    "endpoint": "/sleva/brambory-konzumni-pozdni",
+    "data-product": "brambory-konzumni-pozdni",
+    "shops": [
+        "JIP Cash & Carry",
+        "Albert",
+        "JIP maloobchod",
+        "Lidl",
+        "Penny Market",
+        "Penny Market",
+        "Lidl"
+    ]
+},
+{
+    "name": "Jablka Golden Delicious",
+    "amount": "1 kg",
+    "endpoint": "/sleva/jablka-golden-delicious",
+    "data-product": "jablka-golden-delicious",
+    "shops": [
+        "Tesco ",
+        "Penny Market"
+    ]
+},
+{
+    "name": "Mrkev",
+    "amount": "1 kg",
+    "endpoint": "/sleva/mrkev",
+    "data-product": "mrkev",
+    "shops": [
+        "Tesco hypermarket",
+        "Globus",
+        "Penny Market",
+        "Makro"
+    ]
+},
+{
+    "name": "Ananas",
+    "amount": "1 ks",
+    "endpoint": "/sleva/ananas",
+    "data-product": "ananas",
+    "shops": [
+        "Albert hypermarket",
+        "Globus"
+    ]
+},
+{
+    "name": "Paprika b\u00edl\u00e1",
+    "amount": "1 kg",
+    "endpoint": "/sleva/paprika-bila",
+    "data-product": "paprika-bila",
+    "shops": [
+        "Lidl",
+        "Globus"
+    ]
+},
+{
+    "name": "Pomelo",
+    "amount": "1 ks",
+    "endpoint": "/sleva/pomelo",
+    "data-product": "pomelo",
+    "shops": [
+        "Penny Market"
+    ]
+},
+{
+    "name": "Hrozny b\u00edl\u00e9",
+    "amount": "1 kg",
+    "endpoint": "/sleva/hrozny-bile",
+    "data-product": "hrozny-bile",
+    "shops": [
+        "Globus"
+    ]
+},
+{
+    "name": "Mango",
+    "amount": "1 ks",
+    "endpoint": "/sleva/mango",
+    "data-product": "mango",
+    "shops": [
+        "Penny Market",
+        "Kaufland",
+        "Albert hypermarket",
+        "Globus"
+    ]
+},
+{
+    "name": "Jablka \u010derven\u00e1",
+    "amount": "",
+    "endpoint": "/sleva/jablka-cervena",
+    "data-product": "jablka-cervena",
+    "shops": [
+        "Makro",
+        "Lidl"
+    ]
+},
+{
+    "name": "\u0158edkvi\u010dky svazek",
+    "amount": "1 ks",
+    "endpoint": "/sleva/redkvicky-svazek",
+    "data-product": "redkvicky-svazek",
+    "shops": [
+        "Lidl",
+        "Albert hypermarket",
+        "Kaufland"
+    ]
+},
+{
+    "name": "Paprika \u010derven\u00e1 kapie",
+    "amount": "0.5 kg",
+    "endpoint": "/sleva/paprika-cervena-kapie",
+    "data-product": "paprika-cervena-kapie",
+    "shops": [
+        "Penny Market"
+    ]
+},
+{
+    "name": "Brambory",
+    "amount": "5 kg",
+    "endpoint": "/sleva/brambory",
+    "data-product": "brambory",
+    "shops": [
+        "Tesco hypermarket"
+    ]
+},
+{
+    "name": "Limety",
+    "amount": "1 ks",
+    "endpoint": "/sleva/limety",
+    "data-product": "limety",
+    "shops": [
+        "Kaufland"
+    ]
+},
+{
+    "name": "\u010cesnek",
+    "amount": "250 g",
+    "endpoint": "/sleva/cesnek",
+    "data-product": "cesnek",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "\u010cesnek \u010desk\u00fd",
+    "amount": "200 g",
+    "endpoint": "/sleva/cesnek-cesky",
+    "data-product": "cesnek-cesky",
+    "shops": [
+        "Penny Market"
+    ]
+},
+{
+    "name": "Jarn\u00ed cibule svazek",
+    "amount": "1 ks",
+    "endpoint": "/sleva/jarni-cibule-svazek",
+    "data-product": "jarni-cibule-svazek",
+    "shops": [
+        "Lidl",
+        "Globus"
+    ]
+},
+{
+    "name": "Raj\u010data koktejlov\u00e1",
+    "amount": "500 g",
+    "endpoint": "/sleva/rajcata-koktejlova",
+    "data-product": "rajcata-koktejlova",
+    "shops": [
+        "Kaufland"
+    ]
+},
+{
+    "name": "Jablka Gala",
+    "amount": "1 kg",
+    "endpoint": "/sleva/jablka-gala",
+    "data-product": "jablka-gala",
+    "shops": [
+        "Globus",
+        "BILLA",
+        "Albert supermarket"
+    ]
+},
+{
+    "name": "Hrozny r\u016f\u017eov\u00e9",
+    "amount": "1 kg",
+    "endpoint": "/sleva/hrozny-ruzove",
+    "data-product": "hrozny-ruzove",
+    "shops": [
+        "Albert supermarket",
+        "Globus"
+    ]
+},
+{
+    "name": "Ban\u00e1ny Premium Dole",
+    "amount": "1 kg",
+    "endpoint": "/sleva/banany-premium-dole",
+    "data-product": "banany-premium-dole",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Gran\u00e1tov\u00e9 jablko",
+    "amount": "1 ks",
+    "endpoint": "/sleva/granatove-jablko",
+    "data-product": "granatove-jablko",
+    "shops": [
+        "Globus",
+        "Penny Market",
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Hru\u0161ky",
+    "amount": "1 kg",
+    "endpoint": "/sleva/hrusky",
+    "data-product": "hrusky",
+    "shops": [
+        "Lidl"
+    ]
+},
+{
+    "name": "D\u00fdn\u011b Hokkaid\u00f3",
+    "amount": "1 ks",
+    "endpoint": "/sleva/dyne-hokkaido",
+    "data-product": "dyne-hokkaido",
+    "shops": [
+        "Lidl",
+        "Albert supermarket"
+    ]
+},
+{
+    "name": "Celer bulva",
+    "amount": "1 kg",
+    "endpoint": "/sleva/celer-bulva",
+    "data-product": "celer-bulva",
+    "shops": [
+        "Globus"
+    ]
+},
+{
+    "name": "Hrozny modr\u00e9",
+    "amount": "1 kg",
+    "endpoint": "/sleva/hrozny-modre",
+    "data-product": "hrozny-modre",
+    "shops": [
+        "Globus",
+        "JIP Cash & Carry",
+        "JIP maloobchod"
+    ]
+},
+{
+    "name": "Paprika sv\u011btl\u00e1",
+    "amount": "1 kg",
+    "endpoint": "/sleva/paprika-svetla",
+    "data-product": "paprika-svetla",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "\u0160vestky",
+    "amount": "1 kg",
+    "endpoint": "/sleva/svestky",
+    "data-product": "svestky",
+    "shops": [
+        "Lidl"
+    ]
+},
+{
+    "name": "F\u00edky \u010derstv\u00e9",
+    "amount": "1 ks",
+    "endpoint": "/sleva/fiky-cerstve",
+    "data-product": "fiky-cerstve",
+    "shops": [
+        "JIP Cash & Carry",
+        "JIP maloobchod",
+        "BILLA"
+    ]
+},
+{
+    "name": "Rukola",
+    "amount": "125 g",
+    "endpoint": "/sleva/rukola",
+    "data-product": "rukola",
+    "shops": [
+        "Lidl",
+        "Kaufland"
+    ]
+},
+{
+    "name": "Petr\u017eel",
+    "amount": "1 kg",
+    "endpoint": "/sleva/petrzel",
+    "data-product": "petrzel",
+    "shops": [
+        "Globus"
+    ]
+},
+{
+    "name": "Jahody Tesco",
+    "amount": "250 g",
+    "endpoint": "/sleva/jahody-tesco",
+    "data-product": "jahody-tesco",
+    "shops": [
+        "Tesco "
+    ]
+},
+{
+    "name": "Sal\u00e1t little gem",
+    "amount": "2 ks",
+    "endpoint": "/sleva/salat-little-gem",
+    "data-product": "salat-little-gem",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Sal\u00e1t \u0159\u00edmsk\u00fd",
+    "amount": "1 ks",
+    "endpoint": "/sleva/salat-rimsky",
+    "data-product": "salat-rimsky",
+    "shops": [
+        "JIP Cash & Carry",
+        "JIP maloobchod"
+    ]
+},
+{
+    "name": "D\u00fdn\u011b m\u00e1slov\u00e1",
+    "amount": "1 kg",
+    "endpoint": "/sleva/dyne-maslova",
+    "data-product": "dyne-maslova",
+    "shops": [
+        "Makro"
+    ]
+},
+{
+    "name": "Hrozny modr\u00e9 bezsemenn\u00e9",
+    "amount": "0.5 kg",
+    "endpoint": "/sleva/hrozny-modre-bezsemenne",
+    "data-product": "hrozny-modre-bezsemenne",
+    "shops": [
+        "Globus"
+    ]
+},
+{
+    "name": "Hru\u0161ky Konference",
+    "amount": "1 kg",
+    "endpoint": "/sleva/hrusky-konference",
+    "data-product": "hrusky-konference",
+    "shops": [
+        "Penny Market"
+    ]
+},
+{
+    "name": "Jablka Red Delicious",
+    "amount": "1 kg",
+    "endpoint": "/sleva/jablka-red-delicious",
+    "data-product": "jablka-red-delicious",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Kuku\u0159ice klas",
+    "amount": "1 ks",
+    "endpoint": "/sleva/kukurice-klas",
+    "data-product": "kukurice-klas",
+    "shops": [
+        "Kaufland"
+    ]
+},
+{
+    "name": "Brambory konzumn\u00ed ran\u00e9 \u010cesk\u00e1 farma",
+    "amount": "1 kg",
+    "endpoint": "/sleva/brambory-konzumni-rane-ceska-farma",
+    "data-product": "brambory-konzumni-rane-ceska-farma",
+    "shops": [
+        "BILLA"
+    ]
+},
+{
+    "name": "Ban\u00e1ny bio Nature's Promise",
+    "amount": "1 kg",
+    "endpoint": "/sleva/banany-bio-natures-promise",
+    "data-product": "banany-bio-natures-promise",
+    "shops": [
+        "Albert supermarket"
+    ]
+},
+{
+    "name": "Raj\u010data koktejlov\u00e1 Albert",
+    "amount": "400 g",
+    "endpoint": "/sleva/rajcata-koktejlova-albert",
+    "data-product": "rajcata-koktejlova-albert",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Hru\u0161ky Lucasovy",
+    "amount": "1 kg",
+    "endpoint": "/sleva/hrusky-lucasovy",
+    "data-product": "hrusky-lucasovy",
+    "shops": [
+        "Globus",
+        "Kaufland"
+    ]
+},
+{
+    "name": "Kv\u011bt\u00e1k \u010cesk\u00e1 farma",
+    "amount": "1 ks",
+    "endpoint": "/sleva/kvetak-ceska-farma",
+    "data-product": "kvetak-ceska-farma",
+    "shops": [
+        "BILLA"
+    ]
+},
+{
+    "name": "Hrozny tmav\u00e9 bezsemenn\u00e9",
+    "amount": "0.5 kg",
+    "endpoint": "/sleva/hrozny-tmave-bezsemenne",
+    "data-product": "hrozny-tmave-bezsemenne",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Raj\u010data cherry Tesco Finest",
+    "amount": "250 g",
+    "endpoint": "/sleva/rajcata-cherry-tesco-finest",
+    "data-product": "rajcata-cherry-tesco-finest",
+    "shops": [
+        "Tesco "
+    ]
+},
+{
+    "name": "Raj\u010data papeletto Albert",
+    "amount": "400 g",
+    "endpoint": "/sleva/rajcata-papeletto-albert",
+    "data-product": "rajcata-papeletto-albert",
+    "shops": [
+        "Albert supermarket"
+    ]
+},
+{
+    "name": "Hrozny",
+    "amount": "1 kg",
+    "endpoint": "/sleva/hrozny",
+    "data-product": "hrozny",
+    "shops": [
+        "Makro"
+    ]
+},
+{
+    "name": "Blumy",
+    "amount": "1 kg",
+    "endpoint": "/sleva/blumy",
+    "data-product": "blumy",
+    "shops": [
+        "Kaufland"
+    ]
+},
+{
+    "name": "Hrozny b\u00edl\u00e9 bio",
+    "amount": "0.5 kg",
+    "endpoint": "/sleva/hrozny-bile-bio",
+    "data-product": "hrozny-bile-bio",
+    "shops": [
+        "Albert"
+    ]
+},
+{
+    "name": "Koriandr \u010derstv\u00fd Metro Chef",
+    "amount": "100 g",
+    "endpoint": "/sleva/koriandr-cerstvy-metro-chef",
+    "data-product": "koriandr-cerstvy-metro-chef",
+    "shops": [
+        "Makro"
+    ]
+},
+{
+    "name": "Raj\u010data cherry ke\u0159\u00edkov\u00e1 \u010cerstv\u011b utr\u017eeno",
+    "amount": "250 g",
+    "endpoint": "/sleva/rajcata-cherry-kerikova-cerstve-utrzeno",
+    "data-product": "rajcata-cherry-kerikova-cerstve-utrzeno",
+    "shops": [
+        "Globus"
+    ]
+},
+{
+    "name": "Ko\u0159en\u00ed Bio It\u2019s Natural",
+    "amount": "25 g",
+    "endpoint": "/sleva/koreni-bio-its-natural",
+    "data-product": "koreni-bio-its-natural",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Paprika \u010derven\u00e1 bio Nature's Promise",
+    "amount": "2 ks",
+    "endpoint": "/sleva/paprika-cervena-bio-natures-promise",
+    "data-product": "paprika-cervena-bio-natures-promise",
+    "shops": [
+        "Albert supermarket"
+    ]
+},
+{
+    "name": "Cibule kuchy\u0148sk\u00e1 \u017elut\u00e1 Metro Chef",
+    "amount": "1 kg",
+    "endpoint": "/sleva/cibule-kuchynska-zluta-metro-chef",
+    "data-product": "cibule-kuchynska-zluta-metro-chef",
+    "shops": [
+        "Makro"
+    ]
+},
+{
+    "name": "Mrkev bio Nature's Promise",
+    "amount": "0.75 kg",
+    "endpoint": "/sleva/mrkev-bio-natures-promise",
+    "data-product": "mrkev-bio-natures-promise",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Karotka Na\u0161e Bio Billa",
+    "amount": "0.75 kg",
+    "endpoint": "/sleva/karotka-nase-bio-billa",
+    "data-product": "karotka-nase-bio-billa",
+    "shops": [
+        "BILLA"
+    ]
+},
+{
+    "name": "Paprika mix Albert",
+    "amount": "0.5 kg",
+    "endpoint": "/sleva/paprika-mix-albert",
+    "data-product": "paprika-mix-albert",
+    "shops": [
+        "Albert supermarket"
+    ]
+},
+{
+    "name": "Sal\u00e1t Mesclun",
+    "amount": "125 g",
+    "endpoint": "/sleva/salat-mesclun",
+    "data-product": "salat-mesclun",
+    "shops": [
+        "JIP Cash & Carry",
+        "JIP maloobchod"
+    ]
+},
+{
+    "name": "Brambory Baby Bramko",
+    "amount": "0.65 kg",
+    "endpoint": "/sleva/brambory-baby-bramko",
+    "data-product": "brambory-baby-bramko",
+    "shops": [
+        "Makro"
+    ]
+},
+{
+    "name": "\u010cesnek \u010derstv\u00fd Bramko",
+    "amount": "100 g",
+    "endpoint": "/sleva/cesnek-cerstvy-bramko",
+    "data-product": "cesnek-cerstvy-bramko",
+    "shops": [
+        "Makro"
+    ]
+},
+{
+    "name": "Raj\u010data cherry Angele \u010cesk\u00e1 farma",
+    "amount": "250 g",
+    "endpoint": "/sleva/rajcata-cherry-angele-ceska-farma",
+    "data-product": "rajcata-cherry-angele-ceska-farma",
+    "shops": [
+        "BILLA"
+    ]
+},
+{
+    "name": "Raj\u010data cherry bio Nature's Promise",
+    "amount": "250 g",
+    "endpoint": "/sleva/rajcata-cherry-bio-natures-promise",
+    "data-product": "rajcata-cherry-bio-natures-promise",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "Paprika mix Tesco",
+    "amount": "0.5 kg",
+    "endpoint": "/sleva/paprika-mix-tesco",
+    "data-product": "paprika-mix-tesco",
+    "shops": [
+        "Tesco "
+    ]
+},
+{
+    "name": "Hru\u0161ky bio Nature's Promise",
+    "amount": "1 kg",
+    "endpoint": "/sleva/hrusky-bio-natures-promise",
+    "data-product": "hrusky-bio-natures-promise",
+    "shops": [
+        "Albert hypermarket"
+    ]
+},
+{
+    "name": "H\u0159ib smrkov\u00fd su\u0161en\u00fd Sommer&Vnuk",
+    "amount": "200 g",
+    "endpoint": "/sleva/hrib-smrkovy-suseny-sommer-vnuk",
+    "data-product": "hrib-smrkovy-suseny-sommer-vnuk",
+    "shops": [
+        "JIP Cash & Carry"
+    ]
+},
+{
+    "name": "Zel\u00ed hl\u00e1vkov\u00e9 b\u00edl\u00e9 Farma Bo\u017eice",
+    "amount": "1 kg",
+    "endpoint": "/sleva/zeli-hlavkove-bile-farma-bozice",
+    "data-product": "zeli-hlavkove-bile-farma-bozice",
+    "shops": [
+        "Makro"
+    ]
+},
+{
+    "name": "\u010cerstv\u00fd sal\u00e1t Misticanza Metro Chef",
+    "amount": "200 g",
+    "endpoint": "/sleva/cerstvy-salat-misticanza-metro-chef",
+    "data-product": "cerstvy-salat-misticanza-metro-chef",
+    "shops": [
+        "Makro"
+    ]
+},
+{
+    "name": "Z\u00e1zvor \u010derstv\u00fd K-Bio",
+    "amount": "0.2 kg",
+    "endpoint": "/sleva/zazvor-cerstvy-k-bio",
+    "data-product": "zazvor-cerstvy-k-bio",
+    "shops": [
+        "Kaufland"
+    ]
+},

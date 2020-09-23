@@ -6,16 +6,17 @@
 
 {% block styles %}
 	{{ super() }}
-	<link rel="stylesheet" href="{{ url_for('static', filename='css/kupi.css') }}">
 	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet">
 {% endblock %}
 
 {% block content %}
+	<div class=header>
+		<div class="title">
+			<p>Kupi Scrapper</p>
+		</div>
+	</div>
 	<div class="scrapper">
 		{% block kupi %}
-			<div class="kupi-title">
-				{% block kupi_title %}Kupi Scrapper{% endblock %}
-			</div>
 			{% block buttons %}
 			<div class=buttons>
 				<a href="{{ url_for('kupi', kupi_type='categories') }}" class="button"><span class="button-title">Categories</span></a>

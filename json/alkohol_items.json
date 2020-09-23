@@ -1,0 +1,3486 @@
+{
+    "name": "Pivo Pilsner Urquell",
+    "amount": "",
+    "endpoint": "/sleva/pivo-pilsner-urquell",
+    "data-product": "pivo-pilsner-urquell"
+},
+{
+    "name": "Bo\u017ekov Original Tuzemsk\u00fd",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/bozkov-original-tuzemsky",
+    "data-product": "bozkov-original-tuzemsky"
+},
+{
+    "name": "Bylinn\u00fd lik\u00e9r J\u00e4germeister",
+    "amount": "",
+    "endpoint": "/sleva/bylinny-liker-jagermeister",
+    "data-product": "bylinny-liker-jagermeister"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Svijansk\u00fd M\u00e1z Svijany",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-svijansky-maz-svijany",
+    "data-product": "pivo-svetly-lezak-11-svijansky-maz-svijany"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Origin\u00e1l 10\u00b0 Gambrinus",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetle-vycepni-original-10-gambrinus",
+    "data-product": "pivo-svetle-vycepni-original-10-gambrinus"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Medium Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-medium-velkopopovicky-kozel",
+    "data-product": "pivo-svetly-lezak-11-medium-velkopopovicky-kozel"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0  Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-velkopopovicky-kozel",
+    "data-product": "pivo-svetle-vycepni-10-velkopopovicky-kozel"
+},
+{
+    "name": "Whisky irsk\u00e1 Tullamore Dew",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-irska-tullamore-dew",
+    "data-product": "whisky-irska-tullamore-dew"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Ryze ho\u0159k\u00e1 Radegast",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-12-ryze-horka-radegast",
+    "data-product": "pivo-svetly-lezak-12-ryze-horka-radegast"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo Birell",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-birell",
+    "data-product": "nealkoholicke-pivo-birell"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Bran\u00edk",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-branik",
+    "data-product": "pivo-svetle-vycepni-10-branik"
+},
+{
+    "name": "Bohemia Sekt Demi Sec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-demi-sec",
+    "data-product": "bohemia-sekt-demi-sec"
+},
+{
+    "name": "Becherovka",
+    "amount": "",
+    "endpoint": "/sleva/becherovka",
+    "data-product": "becherovka"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Excelent Gambrinus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-excelent-gambrinus",
+    "data-product": "pivo-svetly-lezak-11-excelent-gambrinus"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo ochucen\u00e9 Birell",
+    "amount": "",
+    "endpoint": "/sleva/nealkoholicke-pivo-ochucene-birell",
+    "data-product": "nealkoholicke-pivo-ochucene-birell"
+},
+{
+    "name": "Fernet Stock",
+    "amount": "",
+    "endpoint": "/sleva/fernet-stock",
+    "data-product": "fernet-stock"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed R\u00e1zn\u00e1 10\u00b0 Radegast",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetle-vycepni-razna-10-radegast",
+    "data-product": "pivo-svetle-vycepni-razna-10-radegast"
+},
+{
+    "name": "Bo\u017ekov Tradi\u010dn\u00ed",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/bozkov-tradicni",
+    "data-product": "bozkov-tradicni"
+},
+{
+    "name": "Rum Republica Exclusive Bo\u017ekov",
+    "amount": "",
+    "endpoint": "/sleva/rum-republica-exclusive-bozkov",
+    "data-product": "rum-republica-exclusive-bozkov"
+},
+{
+    "name": "Whisky Jameson",
+    "amount": "",
+    "endpoint": "/sleva/whisky-jameson",
+    "data-product": "whisky-jameson"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-staropramen",
+    "data-product": "pivo-svetle-vycepni-10-staropramen"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k B: Original Budweiser Budvar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-b-original-budweiser-budvar",
+    "data-product": "pivo-svetly-lezak-b-original-budweiser-budvar"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed B: Classic Budweiser Budvar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-b-classic-budweiser-budvar",
+    "data-product": "pivo-svetle-vycepni-b-classic-budweiser-budvar"
+},
+{
+    "name": "Captain Morgan Spiced Gold",
+    "amount": "",
+    "endpoint": "/sleva/captain-morgan-spiced-gold",
+    "data-product": "captain-morgan-spiced-gold"
+},
+{
+    "name": "Bohemia Sekt",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt",
+    "data-product": "bohemia-sekt"
+},
+{
+    "name": "Cider Frisco",
+    "amount": "0.33 l",
+    "endpoint": "/sleva/cider-frisco",
+    "data-product": "cider-frisco"
+},
+{
+    "name": "Vodka Blend 42 Vodka",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/vodka-blend-42-vodka",
+    "data-product": "vodka-blend-42-vodka"
+},
+{
+    "name": "Aperitiv Aperol",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/aperitiv-aperol",
+    "data-product": "aperitiv-aperol"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Zlatopramen",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-zlatopramen",
+    "data-product": "pivo-svetly-lezak-11-zlatopramen"
+},
+{
+    "name": "Gin Beefeater",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/gin-beefeater",
+    "data-product": "gin-beefeater"
+},
+{
+    "name": "Captain Morgan",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/captain-morgan",
+    "data-product": "captain-morgan"
+},
+{
+    "name": "Vodka Finlandia",
+    "amount": "",
+    "endpoint": "/sleva/vodka-finlandia",
+    "data-product": "vodka-finlandia"
+},
+{
+    "name": "Bo\u017ekov Speci\u00e1l",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/bozkov-special",
+    "data-product": "bozkov-special"
+},
+{
+    "name": "Star\u00e1 \u017eitn\u00e1 mysliveck\u00e1",
+    "amount": "",
+    "endpoint": "/sleva/stara-zitna-myslivecka",
+    "data-product": "stara-zitna-myslivecka"
+},
+{
+    "name": "Fernet Stock Citrus",
+    "amount": "",
+    "endpoint": "/sleva/fernet-stock-citrus",
+    "data-product": "fernet-stock-citrus"
+},
+{
+    "name": "Brandy 5* Metaxa",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/brandy-5-metaxa",
+    "data-product": "brandy-5-metaxa"
+},
+{
+    "name": "Pivo ochucen\u00e9 Staropramen Cool",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-ochucene-staropramen-cool",
+    "data-product": "pivo-ochucene-staropramen-cool"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo polotmav\u00e9 Birell",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-polotmave-birell",
+    "data-product": "nealkoholicke-pivo-polotmave-birell"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 \u0160er\u00e1k Holba",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-serak-holba",
+    "data-product": "pivo-svetly-lezak-11-serak-holba"
+},
+{
+    "name": "Lik\u00e9r Baileys",
+    "amount": "1 l",
+    "endpoint": "/sleva/liker-baileys",
+    "data-product": "liker-baileys"
+},
+{
+    "name": "Vodka Bo\u017ekov",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/vodka-bozkov",
+    "data-product": "vodka-bozkov"
+},
+{
+    "name": "Vodka Amundsen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/vodka-amundsen",
+    "data-product": "vodka-amundsen"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Heineken",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-heineken",
+    "data-product": "pivo-svetly-lezak-heineken"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Jeden\u00e1ctka Bran\u00edk",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-jedenactka-branik",
+    "data-product": "pivo-svetly-lezak-11-jedenactka-branik"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k nepasterizovan\u00fd 11\u00b0 Medium Starobrno",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetly-lezak-nepasterizovany-11-medium-starobrno",
+    "data-product": "pivo-svetly-lezak-nepasterizovany-11-medium-starobrno"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Zlat\u00fd Ba\u017eant",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-12-zlaty-bazant",
+    "data-product": "pivo-svetly-lezak-12-zlaty-bazant"
+},
+{
+    "name": "Tuzem\u00e1k Jind\u0159ichohradeck\u00fd Fruko Schulz",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/tuzemak-jindrichohradecky-fruko-schulz",
+    "data-product": "tuzemak-jindrichohradecky-fruko-schulz"
+},
+{
+    "name": "Tatransk\u00fd \u010daj 52% Karloff",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/tatransky-caj-52-karloff",
+    "data-product": "tatransky-caj-52-karloff"
+},
+{
+    "name": "Bohemia Sekt Brut",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-brut",
+    "data-product": "bohemia-sekt-brut"
+},
+{
+    "name": "Lik\u00e9r Malibu",
+    "amount": "1 l",
+    "endpoint": "/sleva/liker-malibu",
+    "data-product": "liker-malibu"
+},
+{
+    "name": "Bo\u017ekov",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/bozkov",
+    "data-product": "bozkov"
+},
+{
+    "name": "Lik\u00e9r Peprmint Bo\u017ekov",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-peprmint-bozkov",
+    "data-product": "liker-peprmint-bozkov"
+},
+{
+    "name": "Whisky Grant's",
+    "amount": "",
+    "endpoint": "/sleva/whisky-grants",
+    "data-product": "whisky-grants"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Kru\u0161ovice",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-krusovice",
+    "data-product": "pivo-svetle-vycepni-10-krusovice"
+},
+{
+    "name": "Cider Kingswood",
+    "amount": "0.4 l",
+    "endpoint": "/sleva/cider-kingswood",
+    "data-product": "cider-kingswood"
+},
+{
+    "name": "Rum Legendario Elixir de Cuba 7YO",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/rum-legendario-elixir-de-cuba-7yo",
+    "data-product": "rum-legendario-elixir-de-cuba-7yo"
+},
+{
+    "name": "Rum kub\u00e1nsk\u00fd b\u00edl\u00fd A\u0148ejo 3 Anos Havana club",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/rum-kubansky-bily-anejo-3-anos-havana-club",
+    "data-product": "rum-kubansky-bily-anejo-3-anos-havana-club"
+},
+{
+    "name": "Pivo le\u017e\u00e1k 11\u00b0 \u0158ezan\u00fd Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-lezak-11-rezany-velkopopovicky-kozel",
+    "data-product": "pivo-lezak-11-rezany-velkopopovicky-kozel"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Pard\u00e1l",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-pardal",
+    "data-product": "pivo-svetle-vycepni-10-pardal"
+},
+{
+    "name": "Becherovka Lemond",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/becherovka-lemond",
+    "data-product": "becherovka-lemond"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Kl\u00e1\u0161ter",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-klaster",
+    "data-product": "pivo-svetly-lezak-11-klaster"
+},
+{
+    "name": "Vodka Absolut",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/vodka-absolut",
+    "data-product": "vodka-absolut"
+},
+{
+    "name": "Vodka Han\u00e1ck\u00e1",
+    "amount": "",
+    "endpoint": "/sleva/vodka-hanacka",
+    "data-product": "vodka-hanacka"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 B\u0159ez\u0148\u00e1k",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-breznak",
+    "data-product": "pivo-svetle-vycepni-10-breznak"
+},
+{
+    "name": "Pivo \u010dern\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-cerne-vycepni-10-velkopopovicky-kozel",
+    "data-product": "pivo-cerne-vycepni-10-velkopopovicky-kozel"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo ochucen\u00e9 Staropramen Cool",
+    "amount": "",
+    "endpoint": "/sleva/nealkoholicke-pivo-ochucene-staropramen-cool",
+    "data-product": "nealkoholicke-pivo-ochucene-staropramen-cool"
+},
+{
+    "name": "Bo\u017ekov b\u00edl\u00fd",
+    "amount": "",
+    "endpoint": "/sleva/bozkov-bily",
+    "data-product": "bozkov-bily"
+},
+{
+    "name": "Whisky Red Label Johnnie Walker",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-red-label-johnnie-walker",
+    "data-product": "whisky-red-label-johnnie-walker"
+},
+{
+    "name": "Rum 5YO Heffron Panama",
+    "amount": "",
+    "endpoint": "/sleva/rum-5yo-heffron-panama",
+    "data-product": "rum-5yo-heffron-panama"
+},
+{
+    "name": "Rum Dominicano Elixir 7 A\u0148os Capitan Bucanero",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/rum-dominicano-elixir-7-anos-capitan-bucanero",
+    "data-product": "rum-dominicano-elixir-7-anos-capitan-bucanero"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Echt Pard\u00e1l",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-echt-pardal",
+    "data-product": "pivo-svetly-lezak-11-echt-pardal"
+},
+{
+    "name": "Gin Pink Beefeater",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/gin-pink-beefeater",
+    "data-product": "gin-pink-beefeater"
+},
+{
+    "name": "Bourbon Jim Beam",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/bourbon-jim-beam",
+    "data-product": "bourbon-jim-beam"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Sm\u00edchov Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-smichov-staropramen",
+    "data-product": "pivo-svetle-vycepni-10-smichov-staropramen"
+},
+{
+    "name": "Pivo Mistr\u016fv sv\u011btl\u00fd le\u017e\u00e1k Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-mistruv-svetly-lezak-velkopopovicky-kozel",
+    "data-product": "pivo-mistruv-svetly-lezak-velkopopovicky-kozel"
+},
+{
+    "name": "V\u00edno Old Porter",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-old-porter",
+    "data-product": "vino-old-porter"
+},
+{
+    "name": "V\u00edna J.P. Chenet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-j-p-chenet",
+    "data-product": "vina-j-p-chenet"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Ratar Radegast",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-ratar-radegast",
+    "data-product": "pivo-svetle-vycepni-10-ratar-radegast"
+},
+{
+    "name": "Lik\u00e9r vaje\u010dn\u00fd Bo\u017ekov",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-vajecny-bozkov",
+    "data-product": "liker-vajecny-bozkov"
+},
+{
+    "name": "V\u00edna Vi\u0148a Tarapaca",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-vina-tarapaca",
+    "data-product": "vina-vina-tarapaca"
+},
+{
+    "name": "Sekt Classico Avanti",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-classico-avanti",
+    "data-product": "sekt-classico-avanti"
+},
+{
+    "name": "Lik\u00e9r Magister Stock",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-magister-stock",
+    "data-product": "liker-magister-stock"
+},
+{
+    "name": "Bohemia Sekt nealkoholick\u00fd",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-nealkoholicky",
+    "data-product": "bohemia-sekt-nealkoholicky"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-staropramen",
+    "data-product": "pivo-svetly-lezak-11-staropramen"
+},
+{
+    "name": "Vodka Pra\u017esk\u00e1",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/vodka-prazska",
+    "data-product": "vodka-prazska"
+},
+{
+    "name": "Lik\u00e9r Dark Magister Stock",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-dark-magister-stock",
+    "data-product": "liker-dark-magister-stock"
+},
+{
+    "name": "Sekt nealkoholick\u00fd d\u011btsk\u00fd Robby Bubble",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-nealkoholicky-detsky-robby-bubble",
+    "data-product": "sekt-nealkoholicky-detsky-robby-bubble"
+},
+{
+    "name": "Boris Jelzin ochucen\u00fd",
+    "amount": "",
+    "endpoint": "/sleva/boris-jelzin-ochuceny",
+    "data-product": "boris-jelzin-ochuceny"
+},
+{
+    "name": "Brandy 7* Metaxa",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/brandy-7-metaxa",
+    "data-product": "brandy-7-metaxa"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Kr\u00e1lovsk\u00e1 12\u00b0 Kru\u0161ovice",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetly-lezak-kralovska-12-krusovice",
+    "data-product": "pivo-svetly-lezak-kralovska-12-krusovice"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Stella Artois",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-stella-artois",
+    "data-product": "pivo-svetly-lezak-stella-artois"
+},
+{
+    "name": "Cider Somersby",
+    "amount": "0.33 l",
+    "endpoint": "/sleva/cider-somersby",
+    "data-product": "cider-somersby"
+},
+{
+    "name": "Bohemia Sekt Demi Sec Ros\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-demi-sec-rose",
+    "data-product": "bohemia-sekt-demi-sec-rose"
+},
+{
+    "name": "P\u00e1lenka \u0160vestka Moravsk\u00e1 Rudolf Jel\u00ednek",
+    "amount": "",
+    "endpoint": "/sleva/palenka-svestka-moravska-rudolf-jelinek",
+    "data-product": "palenka-svestka-moravska-rudolf-jelinek"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Svijansk\u00e1 10\u00b0 Svijany",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-svijanska-10-svijany",
+    "data-product": "pivo-svetle-vycepni-svijanska-10-svijany"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Budweiser Budvar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-budweiser-budvar",
+    "data-product": "pivo-svetly-lezak-budweiser-budvar"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo Zelen\u00fd je\u010dmen Birell",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-zeleny-jecmen-birell",
+    "data-product": "nealkoholicke-pivo-zeleny-jecmen-birell"
+},
+{
+    "name": "Bourbon Honey Jim Beam",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/bourbon-honey-jim-beam",
+    "data-product": "bourbon-honey-jim-beam"
+},
+{
+    "name": "V\u00edna Hab\u00e1nsk\u00e9 sklepy",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-habanske-sklepy",
+    "data-product": "vina-habanske-sklepy"
+},
+{
+    "name": "Pivo Desperados",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-desperados",
+    "data-product": "pivo-desperados"
+},
+{
+    "name": "Star\u00e1 \u017eitn\u00e1 mysliveck\u00e1 Reserv\u00e9",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/stara-zitna-myslivecka-reserve",
+    "data-product": "stara-zitna-myslivecka-reserve"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo Argus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-argus",
+    "data-product": "nealkoholicke-pivo-argus"
+},
+{
+    "name": "Aperitiv Bianco Martini",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/aperitiv-bianco-martini",
+    "data-product": "aperitiv-bianco-martini"
+},
+{
+    "name": "Lik\u00e9r Griotka Bo\u017ekov",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-griotka-bozkov",
+    "data-product": "liker-griotka-bozkov"
+},
+{
+    "name": "P\u00e1lenka Slivovice Rudolf Jel\u00ednek",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenka-slivovice-rudolf-jelinek",
+    "data-product": "palenka-slivovice-rudolf-jelinek"
+},
+{
+    "name": "Sekty Avanti",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekty-avanti",
+    "data-product": "sekty-avanti"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Premium Holba",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-12-premium-holba",
+    "data-product": "pivo-svetly-lezak-12-premium-holba"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Corona Extra",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetly-lezak-corona-extra",
+    "data-product": "pivo-svetly-lezak-corona-extra"
+},
+{
+    "name": "Rumy Republica Bo\u017ekov",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/rumy-republica-bozkov",
+    "data-product": "rumy-republica-bozkov"
+},
+{
+    "name": "V\u00edno P\u016fvodn\u00ed Sklepmistr \u010cVZ",
+    "amount": "1 l",
+    "endpoint": "/sleva/vino-puvodni-sklepmistr-cvz",
+    "data-product": "vino-puvodni-sklepmistr-cvz"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd nefiltrovan\u00fd p\u0161eni\u010dn\u00fd le\u017e\u00e1k Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-nefiltrovany-psenicny-lezak-staropramen",
+    "data-product": "pivo-svetly-nefiltrovany-psenicny-lezak-staropramen"
+},
+{
+    "name": "Lik\u00e9ry Vaje\u010dn\u00fd sen Missis",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/likery-vajecny-sen-missis",
+    "data-product": "likery-vajecny-sen-missis"
+},
+{
+    "name": "Aperitivy Cinzano",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/aperitivy-cinzano",
+    "data-product": "aperitivy-cinzano"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Heineken - soudek",
+    "amount": "5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-heineken-soudek",
+    "data-product": "pivo-svetly-lezak-heineken-soudek"
+},
+{
+    "name": "Bo\u017ekov ochucen\u00fd",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/bozkov-ochuceny",
+    "data-product": "bozkov-ochuceny"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 Velkopopovick\u00fd Kozel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-velkopopovicky-kozel",
+    "data-product": "pivo-svetle-velkopopovicky-kozel"
+},
+{
+    "name": "Sekt Demi Sec Mucha",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-demi-sec-mucha",
+    "data-product": "sekt-demi-sec-mucha"
+},
+{
+    "name": "Vodka ochucen\u00e1 Finlandia",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/vodka-ochucena-finlandia",
+    "data-product": "vodka-ochucena-finlandia"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 Bran\u00edk",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetle-branik",
+    "data-product": "pivo-svetle-branik"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo ochucen\u00e9 Radler Zlatopramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-ochucene-radler-zlatopramen",
+    "data-product": "nealkoholicke-pivo-ochucene-radler-zlatopramen"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Platan",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-platan",
+    "data-product": "pivo-svetly-lezak-11-platan"
+},
+{
+    "name": "P\u00e1lenka Hru\u0161ka Jubilejn\u00e1 St. Nicolaus",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-hruska-jubilejna-st-nicolaus",
+    "data-product": "palenka-hruska-jubilejna-st-nicolaus"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 33 Budweiser Budvar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-33-budweiser-budvar",
+    "data-product": "pivo-svetly-lezak-33-budweiser-budvar"
+},
+{
+    "name": "Captain Morgan White",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/captain-morgan-white",
+    "data-product": "captain-morgan-white"
+},
+{
+    "name": "Vodka Russian Standard Original",
+    "amount": "1 l",
+    "endpoint": "/sleva/vodka-russian-standard-original",
+    "data-product": "vodka-russian-standard-original"
+},
+{
+    "name": "Bohemia Sekt Brut Chardonnay",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-brut-chardonnay",
+    "data-product": "bohemia-sekt-brut-chardonnay"
+},
+{
+    "name": "Cider Li\u0161\u00e1ck\u00e9 jablko Heineken",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/cider-lisacke-jablko-heineken",
+    "data-product": "cider-lisacke-jablko-heineken"
+},
+{
+    "name": "Sekt Brut Mucha",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-brut-mucha",
+    "data-product": "sekt-brut-mucha"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-staropramen",
+    "data-product": "pivo-svetly-lezak-staropramen"
+},
+{
+    "name": "Rum Carta Blanca Bacardi",
+    "amount": "1 l",
+    "endpoint": "/sleva/rum-carta-blanca-bacardi",
+    "data-product": "rum-carta-blanca-bacardi"
+},
+{
+    "name": "Gin Dry GMG",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/gin-dry-gmg",
+    "data-product": "gin-dry-gmg"
+},
+{
+    "name": "Tuzemsk\u00fd Han\u00e1ck\u00e1",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/tuzemsky-hanacka",
+    "data-product": "tuzemsky-hanacka"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Patron Gambrinus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-12-patron-gambrinus",
+    "data-product": "pivo-svetly-lezak-12-patron-gambrinus"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Bran\u00edk",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-branik",
+    "data-product": "pivo-svetly-lezak-branik"
+},
+{
+    "name": "V\u00edno \u010derven\u00e9 Medv\u011bd\u00ed krev",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cervene-medvedi-krev",
+    "data-product": "vino-cervene-medvedi-krev"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Original Ostravar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-original-ostravar",
+    "data-product": "pivo-svetle-vycepni-10-original-ostravar"
+},
+{
+    "name": "Whisky Apple Jack Daniel's",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-apple-jack-daniels",
+    "data-product": "whisky-apple-jack-daniels"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 P\u00e1ter \u010cern\u00e1 hora",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-pater-cerna-hora",
+    "data-product": "pivo-svetly-lezak-11-pater-cerna-hora"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Je\u017eek Pivovar Jihlava",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-jezek-pivovar-jihlava",
+    "data-product": "pivo-svetly-lezak-11-jezek-pivovar-jihlava"
+},
+{
+    "name": "Sekty Mucha",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekty-mucha",
+    "data-product": "sekty-mucha"
+},
+{
+    "name": "Sekt Ros\u00e9 Avanti",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-rose-avanti",
+    "data-product": "sekt-rose-avanti"
+},
+{
+    "name": "Pivo \u010dern\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Kru\u0161ovice",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-cerne-vycepni-10-krusovice",
+    "data-product": "pivo-cerne-vycepni-10-krusovice"
+},
+{
+    "name": "Lik\u00e9r irsk\u00fd Carolans",
+    "amount": "1 l",
+    "endpoint": "/sleva/liker-irsky-carolans",
+    "data-product": "liker-irsky-carolans"
+},
+{
+    "name": "V\u00edno Furmint Tokaji",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-furmint-tokaji",
+    "data-product": "vino-furmint-tokaji"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 speci\u00e1ln\u00ed Strong Argus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-specialni-strong-argus",
+    "data-product": "pivo-svetle-specialni-strong-argus"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Staro\u010dech",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-starocech",
+    "data-product": "pivo-svetle-vycepni-10-starocech"
+},
+{
+    "name": "Bohemia Sekt Ros\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-rose",
+    "data-product": "bohemia-sekt-rose"
+},
+{
+    "name": "P\u00e1lenka Hru\u0161ka Spi\u0161 Original",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-hruska-spis-original",
+    "data-product": "palenka-hruska-spis-original"
+},
+{
+    "name": "Tuzem\u00e1k Klasik St. Nicolaus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/tuzemak-klasik-st-nicolaus",
+    "data-product": "tuzemak-klasik-st-nicolaus"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Premium Litovel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-premium-litovel",
+    "data-product": "pivo-svetly-lezak-premium-litovel"
+},
+{
+    "name": "Prosecco Brut DOC Mionetto",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-brut-doc-mionetto",
+    "data-product": "prosecco-brut-doc-mionetto"
+},
+{
+    "name": "Bohemia Sekt Brut Blanc de Noirs",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-brut-blanc-de-noirs",
+    "data-product": "bohemia-sekt-brut-blanc-de-noirs"
+},
+{
+    "name": "Bylinn\u00fd lik\u00e9r Scharf J\u00e4germeister",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/bylinny-liker-scharf-jaegermeister",
+    "data-product": "bylinny-liker-scharf-jaegermeister"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Konrad",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-12-konrad",
+    "data-product": "pivo-svetly-lezak-12-konrad"
+},
+{
+    "name": "Pivo Zlat\u00fd Ba\u017eant",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-zlaty-bazant",
+    "data-product": "pivo-zlaty-bazant"
+},
+{
+    "name": "Gin Blood Orange Beefeater",
+    "amount": "",
+    "endpoint": "/sleva/gin-blood-orange-beefeater",
+    "data-product": "gin-blood-orange-beefeater"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Origin\u00e1l Kr\u00e1lovsk\u00e1 10\u00b0 Kru\u0161ovice",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-original-kralovska-10-krusovice",
+    "data-product": "pivo-svetle-vycepni-original-kralovska-10-krusovice"
+},
+{
+    "name": "Bohemia Sekt Rose nealkoholick\u00fd",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-rose-nealkoholicky",
+    "data-product": "bohemia-sekt-rose-nealkoholicky"
+},
+{
+    "name": "Pivo Bran\u00edk",
+    "amount": "2 l",
+    "endpoint": "/sleva/pivo-branik",
+    "data-product": "pivo-branik"
+},
+{
+    "name": "Aperitiv Martini",
+    "amount": "",
+    "endpoint": "/sleva/aperitiv-martini",
+    "data-product": "aperitiv-martini"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-staropramen",
+    "data-product": "pivo-svetle-staropramen"
+},
+{
+    "name": "Whisky Black Label Johnnie Walker",
+    "amount": "1 l",
+    "endpoint": "/sleva/whisky-black-label-johnnie-walker",
+    "data-product": "whisky-black-label-johnnie-walker"
+},
+{
+    "name": "Bohemia Sekt Ice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-ice",
+    "data-product": "bohemia-sekt-ice"
+},
+{
+    "name": "P\u00e1lenky Jubilejn\u00e1 St. Nicolaus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenky-jubilejna-st-nicolaus",
+    "data-product": "palenky-jubilejna-st-nicolaus"
+},
+{
+    "name": "Prosecco Frizzante Bella Cucina",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-frizzante-bella-cucina",
+    "data-product": "prosecco-frizzante-bella-cucina"
+},
+{
+    "name": "Fernet Stock Standard",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/fernet-stock-standard",
+    "data-product": "fernet-stock-standard"
+},
+{
+    "name": "Bo\u017ekov \u010dern\u00fd",
+    "amount": "",
+    "endpoint": "/sleva/bozkov-cerny",
+    "data-product": "bozkov-cerny"
+},
+{
+    "name": "Bohemia sekt Brut Ros\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-brut-rose",
+    "data-product": "bohemia-sekt-brut-rose"
+},
+{
+    "name": "Whisky 12 YO Chivas Regal",
+    "amount": "1 l",
+    "endpoint": "/sleva/whisky-12-yo-chivas-regal",
+    "data-product": "whisky-12-yo-chivas-regal"
+},
+{
+    "name": "V\u00edna Mot\u00fdl V\u00edno Mikulov",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-motyl-vino-mikulov",
+    "data-product": "vina-motyl-vino-mikulov"
+},
+{
+    "name": "Pivo \u010dern\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Bran\u00edk",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-cerne-vycepni-10-branik",
+    "data-product": "pivo-cerne-vycepni-10-branik"
+},
+{
+    "name": "Rumy Bacardi",
+    "amount": "1 l",
+    "endpoint": "/sleva/rumy-bacardi",
+    "data-product": "rumy-bacardi"
+},
+{
+    "name": "Prosecco Martini",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-martini",
+    "data-product": "prosecco-martini"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Classic Pivovar Zubr",
+    "amount": "",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-classic-pivovar-zubr",
+    "data-product": "pivo-svetle-vycepni-10-classic-pivovar-zubr"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Premium Pivovar Zubr",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-12-premium-pivovar-zubr",
+    "data-product": "pivo-svetly-lezak-12-premium-pivovar-zubr"
+},
+{
+    "name": "Pivo Guinness Draught",
+    "amount": "0.44 l",
+    "endpoint": "/sleva/pivo-guinness-draught",
+    "data-product": "pivo-guinness-draught"
+},
+{
+    "name": "Gin London Dry Finsbury",
+    "amount": "",
+    "endpoint": "/sleva/gin-london-dry-finsbury",
+    "data-product": "gin-london-dry-finsbury"
+},
+{
+    "name": "P\u00e1lenky Moravsk\u00e1 \u0159ada Rudolf Jel\u00ednek",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenky-moravska-rada-rudolf-jelinek",
+    "data-product": "palenky-moravska-rada-rudolf-jelinek"
+},
+{
+    "name": "V\u00edno Modr\u00fd Portugal ,,B\" Budamont",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-modry-portugal-b-budamont",
+    "data-product": "vino-modry-portugal-b-budamont"
+},
+{
+    "name": "V\u00edno Harslevelu Tokaji",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-harslevelu-tokaji",
+    "data-product": "vino-harslevelu-tokaji"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo sv\u011btl\u00e9 Svijansk\u00fd Vozka Svijany",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-svetle-svijansky-vozka-svijany",
+    "data-product": "nealkoholicke-pivo-svetle-svijansky-vozka-svijany"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 Zlatopramen",
+    "amount": "2 l",
+    "endpoint": "/sleva/pivo-svetle-zlatopramen",
+    "data-product": "pivo-svetle-zlatopramen"
+},
+{
+    "name": "Lik\u00e9r Limes Polar Berentzen",
+    "amount": "",
+    "endpoint": "/sleva/liker-limes-polar-berentzen",
+    "data-product": "liker-limes-polar-berentzen"
+},
+{
+    "name": "V\u00edna Templ\u00e1\u0159sk\u00e9 sklepy \u010cejkovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-templarske-sklepy-cejkovice",
+    "data-product": "vina-templarske-sklepy-cejkovice"
+},
+{
+    "name": "Bohemia Sekt \u010derven\u00fd Demi Sec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-cerveny-demi-sec",
+    "data-product": "bohemia-sekt-cerveny-demi-sec"
+},
+{
+    "name": "Nealkoholick\u00e9 pivo Staro\u010dech",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/nealkoholicke-pivo-starocech",
+    "data-product": "nealkoholicke-pivo-starocech"
+},
+{
+    "name": "V\u00edna Chateau Valtice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-chateau-valtice",
+    "data-product": "vina-chateau-valtice"
+},
+{
+    "name": "Vodka Nordic Ice",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/vodka-nordic-ice",
+    "data-product": "vodka-nordic-ice"
+},
+{
+    "name": "Gin Speci\u00e1l Dry Dynybyl",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/gin-special-dry-dynybyl",
+    "data-product": "gin-special-dry-dynybyl"
+},
+{
+    "name": "Prosecco Bella Cucina",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-bella-cucina",
+    "data-product": "prosecco-bella-cucina"
+},
+{
+    "name": "Prosecco Mionetto",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-mionetto",
+    "data-product": "prosecco-mionetto"
+},
+{
+    "name": "P\u00e1lenka Slivovice zlat\u00e1 Rudolf Jel\u00ednek",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenka-slivovice-zlata-rudolf-jelinek",
+    "data-product": "palenka-slivovice-zlata-rudolf-jelinek"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k star\u00e9 \u0161koly B\u0159ez\u0148\u00e1k",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-stare-skoly-breznak",
+    "data-product": "pivo-svetly-lezak-stare-skoly-breznak"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Horsk\u00e1 10\u00b0 Holba",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-horska-10-holba",
+    "data-product": "pivo-svetle-vycepni-horska-10-holba"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Budweiser Budvar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-budweiser-budvar",
+    "data-product": "pivo-svetle-vycepni-budweiser-budvar"
+},
+{
+    "name": "Vodka jemn\u00e1 Klasik St. Nicolaus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/vodka-jemna-klasik-st-nicolaus",
+    "data-product": "vodka-jemna-klasik-st-nicolaus"
+},
+{
+    "name": "P\u00e1lenka \u0160vestka zlat\u00e1 Moravsk\u00e1 Rudolf Jel\u00ednek",
+    "amount": "1 l",
+    "endpoint": "/sleva/palenka-svestka-zlata-moravska-rudolf-jelinek",
+    "data-product": "palenka-svestka-zlata-moravska-rudolf-jelinek"
+},
+{
+    "name": "Pivo le\u017e\u00e1k Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-lezak-staropramen",
+    "data-product": "pivo-lezak-staropramen"
+},
+{
+    "name": "V\u00edno Muscatel Hungarian F. Boranal",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muscatel-hungarian-f-boranal",
+    "data-product": "vino-muscatel-hungarian-f-boranal"
+},
+{
+    "name": "P\u00e1lenka Meru\u0148ka Moravsk\u00e1 Rudolf Jel\u00ednek",
+    "amount": "",
+    "endpoint": "/sleva/palenka-merunka-moravska-rudolf-jelinek",
+    "data-product": "palenka-merunka-moravska-rudolf-jelinek"
+},
+{
+    "name": "Vodka Boris Jelzin",
+    "amount": "",
+    "endpoint": "/sleva/vodka-boris-jelzin",
+    "data-product": "vodka-boris-jelzin"
+},
+{
+    "name": "V\u00edna Gold Asconi",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-gold-asconi",
+    "data-product": "vina-gold-asconi"
+},
+{
+    "name": "V\u00edno Gran Reserva Vi\u0148a Tarapaca",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-gran-reserva-vina-tarapaca",
+    "data-product": "vino-gran-reserva-vina-tarapaca"
+},
+{
+    "name": "Pivo le\u017e\u00e1k Budweiser Budvar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-lezak-budweiser-budvar",
+    "data-product": "pivo-lezak-budweiser-budvar"
+},
+{
+    "name": "V\u00edno \u010derven\u00e9 Ruby Royal Oporto Real Companhia Velha",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cervene-ruby-royal-oporto-real-companhia-velha",
+    "data-product": "vino-cervene-ruby-royal-oporto-real-companhia-velha"
+},
+{
+    "name": "Aperitiv Bianco Morani",
+    "amount": "1 l",
+    "endpoint": "/sleva/aperitiv-bianco-morani",
+    "data-product": "aperitiv-bianco-morani"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Vil\u00e9m Pern\u0161tejn",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-vilem-pernstejn",
+    "data-product": "pivo-svetly-lezak-11-vilem-pernstejn"
+},
+{
+    "name": "V\u00edno Modr\u00fd Portugal Templ\u00e1\u0159sk\u00e9 sklepy \u010cejkovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-modry-portugal-templarske-sklepy-cejkovice",
+    "data-product": "vino-modry-portugal-templarske-sklepy-cejkovice"
+},
+{
+    "name": "P\u00e1lenka Borovi\u010dka slovensk\u00e1 Klasik St. Nicolaus",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenka-borovicka-slovenska-klasik-st-nicolaus",
+    "data-product": "palenka-borovicka-slovenska-klasik-st-nicolaus"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 B\u0159ez\u0148\u00e1k",
+    "amount": "2 l",
+    "endpoint": "/sleva/pivo-svetle-breznak",
+    "data-product": "pivo-svetle-breznak"
+},
+{
+    "name": "V\u00edno da Tavola",
+    "amount": "5 l",
+    "endpoint": "/sleva/vino-da-tavola",
+    "data-product": "vino-da-tavola"
+},
+{
+    "name": "P\u00e1lenka T\u0159e\u0161e\u0148 Moravsk\u00e1 Rudolf Jel\u00ednek",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenka-tresen-moravska-rudolf-jelinek",
+    "data-product": "palenka-tresen-moravska-rudolf-jelinek"
+},
+{
+    "name": "V\u00edno Tawny Royal Oporto Real Companhia Velha",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-tawny-royal-oporto-real-companhia-velha",
+    "data-product": "vino-tawny-royal-oporto-real-companhia-velha"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed 10\u00b0 Classic Litovel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-10-classic-litovel",
+    "data-product": "pivo-svetle-vycepni-10-classic-litovel"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Ostravar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-12-ostravar",
+    "data-product": "pivo-svetly-lezak-12-ostravar"
+},
+{
+    "name": "Brandy Gruzignac",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/brandy-gruzignac",
+    "data-product": "brandy-gruzignac"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0  Patriot Pivovar Uhersk\u00fd Brod",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-patriot-pivovar-uhersky-brod",
+    "data-product": "pivo-svetly-lezak-11-patriot-pivovar-uhersky-brod"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon",
+    "amount": "1 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon",
+    "data-product": "vino-cabernet-sauvignon"
+},
+{
+    "name": "V\u00edno Chardonnay Hungarian F. Boranal",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-hungarian-f-boranal",
+    "data-product": "vino-chardonnay-hungarian-f-boranal"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd sezonn\u00ed le\u017e\u00e1k Staropramen",
+    "amount": "1.5 l",
+    "endpoint": "/sleva/pivo-svetly-sezonni-lezak-staropramen",
+    "data-product": "pivo-svetly-sezonni-lezak-staropramen"
+},
+{
+    "name": "Becherovka Unfiltered",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/becherovka-unfiltered",
+    "data-product": "becherovka-unfiltered"
+},
+{
+    "name": "Gin Violet Dynybyl",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/gin-violet-dynybyl",
+    "data-product": "gin-violet-dynybyl"
+},
+{
+    "name": "V\u00edno Chardonnay",
+    "amount": "1 l",
+    "endpoint": "/sleva/vino-chardonnay",
+    "data-product": "vino-chardonnay"
+},
+{
+    "name": "Pivo Stout Draught Guinness",
+    "amount": "0.44 l",
+    "endpoint": "/sleva/pivo-stout-draught-guinness",
+    "data-product": "pivo-stout-draught-guinness"
+},
+{
+    "name": "Sekt Burg Schoneck",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-burg-schoneck",
+    "data-product": "sekt-burg-schoneck"
+},
+{
+    "name": "V\u00edno Merlot Gran Reserva Vi\u0148a Tarapaca",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-gran-reserva-vina-tarapaca",
+    "data-product": "vino-merlot-gran-reserva-vina-tarapaca"
+},
+{
+    "name": "Lik\u00e9r vaje\u010dn\u00fd Kr\u00e1lovsk\u00e1 pal\u00edrna",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-vajecny-kralovska-palirna",
+    "data-product": "liker-vajecny-kralovska-palirna"
+},
+{
+    "name": "V\u00edna Brise de France",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-brise-de-france",
+    "data-product": "vina-brise-de-france"
+},
+{
+    "name": "Sekt Demi Sec Ice Bohemia Sekt",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-demi-sec-ice-bohemia-sekt",
+    "data-product": "sekt-demi-sec-ice-bohemia-sekt"
+},
+{
+    "name": "Whisky Mc Illroy Blended",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-mc-illroy-blended",
+    "data-product": "whisky-mc-illroy-blended"
+},
+{
+    "name": "V\u00edna Jacob's Creek",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-jacob-s-creek",
+    "data-product": "vina-jacob-s-creek"
+},
+{
+    "name": "Tequila Sierra",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/tequila-sierra",
+    "data-product": "tequila-sierra"
+},
+{
+    "name": "Lambrusco Wajda",
+    "amount": "1.5 l",
+    "endpoint": "/sleva/lambrusco-wajda",
+    "data-product": "lambrusco-wajda"
+},
+{
+    "name": "Brandy 5 YO Ararat",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/brandy-5-yo-ararat",
+    "data-product": "brandy-5-yo-ararat"
+},
+{
+    "name": "Medovina K\u0159ivokl\u00e1tsk\u00e1 Jan Halada",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/medovina-krivoklatska-jan-halada",
+    "data-product": "medovina-krivoklatska-jan-halada"
+},
+{
+    "name": "Lik\u00e9r Griotka Kr\u00e1lovsk\u00e1 pal\u00edrna",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-griotka-kralovska-palirna",
+    "data-product": "liker-griotka-kralovska-palirna"
+},
+{
+    "name": "V\u00edna Cellarium Bisencii Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-cellarium-bisencii-zamecke-vinarstvi-bzenec",
+    "data-product": "vina-cellarium-bisencii-zamecke-vinarstvi-bzenec"
+},
+{
+    "name": "V\u00edno Merlot Roche Mazet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-roche-mazet",
+    "data-product": "vino-merlot-roche-mazet"
+},
+{
+    "name": "V\u00edno Chardonnay Fantasy Migdal Chateau Cojusna",
+    "amount": "1 l",
+    "endpoint": "/sleva/vino-chardonnay-fantasy-migdal-chateau-cojusna",
+    "data-product": "vino-chardonnay-fantasy-migdal-chateau-cojusna"
+},
+{
+    "name": "Lambrusco Decordi",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/lambrusco-decordi",
+    "data-product": "lambrusco-decordi"
+},
+{
+    "name": "Sekt Demi Sec Saint Louis",
+    "amount": "",
+    "endpoint": "/sleva/sekt-demi-sec-saint-louis",
+    "data-product": "sekt-demi-sec-saint-louis"
+},
+{
+    "name": "Brandy Napoleon Pierre",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/brandy-napoleon-pierre",
+    "data-product": "brandy-napoleon-pierre"
+},
+{
+    "name": "Rum b\u00edl\u00fd White Blossom Pabst & Richarz",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/rum-bily-white-blossom-pabst-richarz",
+    "data-product": "rum-bily-white-blossom-pabst-richarz"
+},
+{
+    "name": "V\u00edno Z\u00e1meck\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-zamecke",
+    "data-product": "vino-zamecke"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Staro\u010dech",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-starocech",
+    "data-product": "pivo-svetly-lezak-starocech"
+},
+{
+    "name": "Lambrusco Colombara",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/lambrusco-colombara",
+    "data-product": "lambrusco-colombara"
+},
+{
+    "name": "Sekt Ros\u00e9 Mucha",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-rose-mucha",
+    "data-product": "sekt-rose-mucha"
+},
+{
+    "name": "V\u00edno Ryzlink r\u00fdnsk\u00fd Chateau Valtice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-ryzlink-rynsky-chateau-valtice",
+    "data-product": "vino-ryzlink-rynsky-chateau-valtice"
+},
+{
+    "name": "Pivo Post\u0159i\u017einsk\u00fd le\u017e\u00e1k Pivovar Nymburk",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-postrizinsky-lezak-pivovar-nymburk",
+    "data-product": "pivo-postrizinsky-lezak-pivovar-nymburk"
+},
+{
+    "name": "V\u00edna Paul Mas",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-paul-mas",
+    "data-product": "vina-paul-mas"
+},
+{
+    "name": "V\u00edna Chateau Valtice - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-chateau-valtice-privlastkova",
+    "data-product": "vina-chateau-valtice-privlastkova"
+},
+{
+    "name": "V\u00edno Modr\u00fd Portugal Terezi\u00e1nsk\u00e9 sklepy",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-modry-portugal-terezianske-sklepy",
+    "data-product": "vino-modry-portugal-terezianske-sklepy"
+},
+{
+    "name": "V\u00edno Veltl\u00ednsk\u00e9 zelen\u00e9 Mot\u00fdl V\u00edno Mikulov",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-veltlinske-zelene-motyl-vino-mikulov",
+    "data-product": "vino-veltlinske-zelene-motyl-vino-mikulov"
+},
+{
+    "name": "V\u00edno Frankovka Templ\u00e1\u0159sk\u00e9 sklepy \u010cejkovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-frankovka-templarske-sklepy-cejkovice",
+    "data-product": "vino-frankovka-templarske-sklepy-cejkovice"
+},
+{
+    "name": "P\u00e1lenky Rudolf Jel\u00ednek",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenky-rudolf-jelinek",
+    "data-product": "palenky-rudolf-jelinek"
+},
+{
+    "name": "Whisky skotsk\u00e1 10 YO Talisker",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/whisky-skotska-10-yo-talisker",
+    "data-product": "whisky-skotska-10-yo-talisker"
+},
+{
+    "name": "Fernet Stock Honey",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/fernet-stock-honey",
+    "data-product": "fernet-stock-honey"
+},
+{
+    "name": "Lik\u00e9r Peprmint Kr\u00e1lovsk\u00e1 pal\u00edrna",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-peprmint-kralovska-palirna",
+    "data-product": "liker-peprmint-kralovska-palirna"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Post\u0159i\u017einsk\u00e9 Pivovar Nymburk",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-postrizinske-pivovar-nymburk",
+    "data-product": "pivo-svetle-vycepni-postrizinske-pivovar-nymburk"
+},
+{
+    "name": "V\u00edno Merlot Brise de France",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-brise-de-france",
+    "data-product": "vino-merlot-brise-de-france"
+},
+{
+    "name": "Vodka Pure Star",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/vodka-pure-star",
+    "data-product": "vodka-pure-star"
+},
+{
+    "name": "Aperitiv Rosso Morani",
+    "amount": "1 l",
+    "endpoint": "/sleva/aperitiv-rosso-morani",
+    "data-product": "aperitiv-rosso-morani"
+},
+{
+    "name": "Vinn\u00fd n\u00e1poj medov\u00fd ovocn\u00fd Vina\u0159stv\u00ed Annovino Lednice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vinny-napoj-medovy-ovocny-vinarstvi-annovino-lednice",
+    "data-product": "vinny-napoj-medovy-ovocny-vinarstvi-annovino-lednice"
+},
+{
+    "name": "Sekt brut Cordon Negro Freixenet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-brut-cordon-negro-freixenet",
+    "data-product": "sekt-brut-cordon-negro-freixenet"
+},
+{
+    "name": "Sekt Demi Sec Carskoe Igristoe",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-demi-sec-carskoe-igristoe",
+    "data-product": "sekt-demi-sec-carskoe-igristoe"
+},
+{
+    "name": "V\u00edno Chardonnay Gran Reserva Vi\u0148a Tarapaca",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-gran-reserva-vina-tarapaca",
+    "data-product": "vino-chardonnay-gran-reserva-vina-tarapaca"
+},
+{
+    "name": "Prosecco Maschio",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-maschio",
+    "data-product": "prosecco-maschio"
+},
+{
+    "name": "V\u00edno Tokaji",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-tokaji",
+    "data-product": "vino-tokaji"
+},
+{
+    "name": "Sekt Brut Saint Louis",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-brut-saint-louis",
+    "data-product": "sekt-brut-saint-louis"
+},
+{
+    "name": "Pivo speci\u00e1ln\u00ed Craft IPL Starobrno",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-specialni-craft-ipl-starobrno",
+    "data-product": "pivo-specialni-craft-ipl-starobrno"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 \u0161ed\u00e9 Augustini\u00e1nsk\u00fd sklep",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-sede-augustiniansky-sklep",
+    "data-product": "vino-rulandske-sede-augustiniansky-sklep"
+},
+{
+    "name": "V\u00edno Veltl\u00ednsk\u00e9 zelen\u00e9 Vinn\u00e9 sklepy Podiv\u00edn",
+    "amount": "1 l",
+    "endpoint": "/sleva/vino-veltlinske-zelene-vinne-sklepy-podivin",
+    "data-product": "vino-veltlinske-zelene-vinne-sklepy-podivin"
+},
+{
+    "name": "V\u00edno Malbec Oak Cask Trapiche",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-malbec-oak-cask-trapiche",
+    "data-product": "vino-malbec-oak-cask-trapiche"
+},
+{
+    "name": "Captain Morgan Dark",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/captain-morgan-dark",
+    "data-product": "captain-morgan-dark"
+},
+{
+    "name": "P\u00e1lenka Hru\u0161ka Baron Hildprandt",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-hruska-baron-hildprandt",
+    "data-product": "palenka-hruska-baron-hildprandt"
+},
+{
+    "name": "V\u00edno Mu\u0161k\u00e1t moravsk\u00fd Herbarium Moravicum Z\u00e1meck\u00e9 Vina\u0159stv\u00ed Bzenec - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muskat-moravsky-herbarium-moravicum-zamecke-vinarstvi-bzenec-pozdni-sber",
+    "data-product": "vino-muskat-moravsky-herbarium-moravicum-zamecke-vinarstvi-bzenec-pozdni-sber"
+},
+{
+    "name": "Sekt Demi Sec Ros\u00e9 Mot\u00fdl V\u00edno Mikulov",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-demi-sec-rose-motyl-vino-mikulov",
+    "data-product": "sekt-demi-sec-rose-motyl-vino-mikulov"
+},
+{
+    "name": "V\u00edna Undurraga",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-undurraga",
+    "data-product": "vina-undurraga"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Roche Mazet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-roche-mazet",
+    "data-product": "vino-cabernet-sauvignon-roche-mazet"
+},
+{
+    "name": "Elix\u00edr z bezov\u00e9ho kv\u011btu Rudolf Jel\u00ednek",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/elixir-z-bezoveho-kvetu-rudolf-jelinek",
+    "data-product": "elixir-z-bezoveho-kvetu-rudolf-jelinek"
+},
+{
+    "name": "Vinn\u00fd n\u00e1poj Castellino",
+    "amount": "1 l",
+    "endpoint": "/sleva/vinny-napoj-castellino",
+    "data-product": "vinny-napoj-castellino"
+},
+{
+    "name": "V\u00edna Prime Line Vina\u0159stv\u00ed Ludwig",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-prime-line-vinarstvi-ludwig",
+    "data-product": "vina-prime-line-vinarstvi-ludwig"
+},
+{
+    "name": "V\u00edna Chateau Bzenec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-chateau-bzenec",
+    "data-product": "vina-chateau-bzenec"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 \u0161ed\u00e9 Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-sede-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-rulandske-sede-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "P\u00e1lenka Slivka Spi\u0161 Original",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-slivka-spis-original",
+    "data-product": "palenka-slivka-spis-original"
+},
+{
+    "name": "P\u00e1lenka \u0161vestka Kr\u00e1lovsk\u00e1 pal\u00edrna",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenka-svestka-kralovska-palirna",
+    "data-product": "palenka-svestka-kralovska-palirna"
+},
+{
+    "name": "Sekt nealkoholick\u00fd d\u011btsk\u00fd Party Drink",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-nealkoholicky-detsky-party-drink",
+    "data-product": "sekt-nealkoholicky-detsky-party-drink"
+},
+{
+    "name": "Sekt Henkell Trocken",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-henkell-trocken",
+    "data-product": "sekt-henkell-trocken"
+},
+{
+    "name": "Pivo \u0159ezan\u00e9 v\u00fd\u010depn\u00ed Bakal\u00e1\u0159",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-rezane-vycepni-bakalar",
+    "data-product": "pivo-rezane-vycepni-bakalar"
+},
+{
+    "name": "Pivo nefiltrovan\u00e9 Staropramen",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-nefiltrovane-staropramen",
+    "data-product": "pivo-nefiltrovane-staropramen"
+},
+{
+    "name": "Prosecco Valdo Marca Oro",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-valdo-marca-oro",
+    "data-product": "prosecco-valdo-marca-oro"
+},
+{
+    "name": "V\u00edno Carmene Gran Reserva Vi\u0148a Tarapaca",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-carmene-gran-reserva-vina-tarapaca",
+    "data-product": "vino-carmene-gran-reserva-vina-tarapaca"
+},
+{
+    "name": "P\u00e1lenka Meru\u0148kovice Rudolf Jel\u00ednek",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-merunkovice-rudolf-jelinek",
+    "data-product": "palenka-merunkovice-rudolf-jelinek"
+},
+{
+    "name": "V\u00edna Roche Mazet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-roche-mazet",
+    "data-product": "vina-roche-mazet"
+},
+{
+    "name": "V\u00edno P\u00e1lava Vina\u0159stv\u00ed P\u00e1n\u016f z Lip\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-palava-vinarstvi-panu-z-lipe",
+    "data-product": "vino-palava-vinarstvi-panu-z-lipe"
+},
+{
+    "name": "V\u00edno M\u00fcller Thurgau Vinn\u00e9 sklepy Podiv\u00edn",
+    "amount": "1 l",
+    "endpoint": "/sleva/vino-muller-thurgau-vinne-sklepy-podivin",
+    "data-product": "vino-muller-thurgau-vinne-sklepy-podivin"
+},
+{
+    "name": "V\u00edna Elegance Joseph Castan",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-elegance-joseph-castan",
+    "data-product": "vina-elegance-joseph-castan"
+},
+{
+    "name": "P\u00e1lenka Slivovice zlat\u00e1 Kosher Rudolf Jel\u00ednek",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-slivovice-zlata-kosher-rudolf-jelinek",
+    "data-product": "palenka-slivovice-zlata-kosher-rudolf-jelinek"
+},
+{
+    "name": "V\u00edna Vinselekt Michlovsk\u00fd - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-vinselekt-michlovsky-privlastkova",
+    "data-product": "vina-vinselekt-michlovsky-privlastkova"
+},
+{
+    "name": "V\u00edno Ryzlink r\u00fdnsk\u00fd Bzeneck\u00e1 Lipka Chateau Bzenec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-ryzlink-rynsky-bzenecka-lipka-chateau-bzenec",
+    "data-product": "vino-ryzlink-rynsky-bzenecka-lipka-chateau-bzenec"
+},
+{
+    "name": "V\u00edno Chardonnay Mill Cellars Hardys",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-mill-cellars-hardys",
+    "data-product": "vino-chardonnay-mill-cellars-hardys"
+},
+{
+    "name": "V\u00edno P\u016fvodn\u00ed Sklepmistr \u010cVZ - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-puvodni-sklepmistr-cvz-bag-in-box",
+    "data-product": "vino-puvodni-sklepmistr-cvz-bag-in-box"
+},
+{
+    "name": "Pivo polotmav\u00fd le\u017e\u00e1k Staro\u010dech",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-polotmavy-lezak-starocech",
+    "data-product": "pivo-polotmavy-lezak-starocech"
+},
+{
+    "name": "V\u00edno Veltl\u00ednsk\u00e9 zelen\u00e9 Eminhof Diana Moravia - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-veltlinske-zelene-eminhof-diana-moravia-pozdni-sber",
+    "data-product": "vino-veltlinske-zelene-eminhof-diana-moravia-pozdni-sber"
+},
+{
+    "name": "Sekt Ros\u00e9 Saint Louis",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-rose-saint-louis",
+    "data-product": "sekt-rose-saint-louis"
+},
+{
+    "name": "P\u00e1lenka T\u0159e\u0161e\u0148 Spi\u0161 Original",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-tresen-spis-original",
+    "data-product": "palenka-tresen-spis-original"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Ostravar",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-ostravar",
+    "data-product": "pivo-svetly-lezak-ostravar"
+},
+{
+    "name": "Bourbon whisky Ranch Wood Kentucky",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/bourbon-whisky-ranch-wood-kentucky",
+    "data-product": "bourbon-whisky-ranch-wood-kentucky"
+},
+{
+    "name": "V\u00edno Salento Primitivo Doppio Passo",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-salento-primitivo-doppio-passo",
+    "data-product": "vino-salento-primitivo-doppio-passo"
+},
+{
+    "name": "Pivo le\u017e\u00e1k Kl\u00e1\u0161ter",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-lezak-klaster",
+    "data-product": "pivo-lezak-klaster"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Ros\u00e9 Znov\u00edn Znojmo",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-rose-znovin-znojmo",
+    "data-product": "vino-cabernet-sauvignon-rose-znovin-znojmo"
+},
+{
+    "name": "Tuzem\u00e1k \u0160vejk Rudolf Jel\u00ednek",
+    "amount": "1 l",
+    "endpoint": "/sleva/tuzemak-svejk-rudolf-jelinek",
+    "data-product": "tuzemak-svejk-rudolf-jelinek"
+},
+{
+    "name": "V\u00edno Chardonnay Roche Mazet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-roche-mazet",
+    "data-product": "vino-chardonnay-roche-mazet"
+},
+{
+    "name": "Prosecco DOC Botter",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-doc-botter",
+    "data-product": "prosecco-doc-botter"
+},
+{
+    "name": "V\u00edno Vina\u0159stv\u00ed Ludwig - p\u0159\u00edvlastkov\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-vinarstvi-ludwig-privlastkove",
+    "data-product": "vino-vinarstvi-ludwig-privlastkove"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 modr\u00e9 Chateau Valtice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-modre-chateau-valtice",
+    "data-product": "vino-rulandske-modre-chateau-valtice"
+},
+{
+    "name": "Whisky Rye Jack Daniel's",
+    "amount": "1 l",
+    "endpoint": "/sleva/whisky-rye-jack-daniel-s",
+    "data-product": "whisky-rye-jack-daniel-s"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Campo- bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-campo-bag-in-box",
+    "data-product": "vino-cabernet-sauvignon-campo-bag-in-box"
+},
+{
+    "name": "P\u00e1lenka Malina Moravsk\u00e1 Rudolf Jel\u00ednek",
+    "amount": "1 l",
+    "endpoint": "/sleva/palenka-malina-moravska-rudolf-jelinek",
+    "data-product": "palenka-malina-moravska-rudolf-jelinek"
+},
+{
+    "name": "Tequila st\u0159\u00edbrn\u00e1 Mexicana Ol\u00e9",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/tequila-stribrna-mexicana-ole",
+    "data-product": "tequila-stribrna-mexicana-ole"
+},
+{
+    "name": "Fernet & Rum Barrel edition Fernet Stock",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/fernet-rum-barrel-edition-fernet-stock",
+    "data-product": "fernet-rum-barrel-edition-fernet-stock"
+},
+{
+    "name": "V\u00edno Vinium Velk\u00e9 Pavlovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-vinium-velke-pavlovice",
+    "data-product": "vino-vinium-velke-pavlovice"
+},
+{
+    "name": "P\u00e1lenka hru\u0161ka Kr\u00e1lovsk\u00e1 pal\u00edrna",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenka-hruska-kralovska-palirna",
+    "data-product": "palenka-hruska-kralovska-palirna"
+},
+{
+    "name": "V\u00edno Reserva Vi\u00f1a Albali",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-reserva-vina-albali",
+    "data-product": "vino-reserva-vina-albali"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 \u0161ed\u00e9 Mot\u00fdl V\u00edno Mikulov",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-sede-motyl-vino-mikulov",
+    "data-product": "vino-rulandske-sede-motyl-vino-mikulov"
+},
+{
+    "name": "Sv\u011btl\u00fd le\u017e\u00e1k 13\u00b0 Sedm\u00fd schod \u017dateck\u00fd pivovar",
+    "amount": "2 l",
+    "endpoint": "/sleva/svetly-lezak-13-sedmy-schod-zatecky-pivovar",
+    "data-product": "svetly-lezak-13-sedmy-schod-zatecky-pivovar"
+},
+{
+    "name": "Prosecco I Heart",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-i-heart",
+    "data-product": "prosecco-i-heart"
+},
+{
+    "name": "V\u00edno Merlot Campo de Chile - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-merlot-campo-de-chile-bag-in-box",
+    "data-product": "vino-merlot-campo-de-chile-bag-in-box"
+},
+{
+    "name": "V\u00edno Frankovka modr\u00e1 Vinn\u00e9 sklepy Podiv\u00edn",
+    "amount": "1 l",
+    "endpoint": "/sleva/vino-frankovka-modra-vinne-sklepy-podivin",
+    "data-product": "vino-frankovka-modra-vinne-sklepy-podivin"
+},
+{
+    "name": "V\u00edno Modr\u00fd Portugal Znov\u00edn Znojmo",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-modry-portugal-znovin-znojmo",
+    "data-product": "vino-modry-portugal-znovin-znojmo"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Campo de Chile",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-campo-de-chile",
+    "data-product": "vino-cabernet-sauvignon-campo-de-chile"
+},
+{
+    "name": "Tequila zlat\u00e1 Mexicana Ol\u00e9",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/tequila-zlata-mexicana-ole",
+    "data-product": "tequila-zlata-mexicana-ole"
+},
+{
+    "name": "Vodka Carskaja Original Ladoga Group",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/vodka-carskaja-original-ladoga-group",
+    "data-product": "vodka-carskaja-original-ladoga-group"
+},
+{
+    "name": "V\u00edna Jean Claude Mas",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-jean-claude-mas",
+    "data-product": "vina-jean-claude-mas"
+},
+{
+    "name": "V\u00edno P\u00e1lava Epic Collection Vina\u0159stv\u00ed Mut\u011bnice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-palava-epic-collection-vinarstvi-mutenice",
+    "data-product": "vino-palava-epic-collection-vinarstvi-mutenice"
+},
+{
+    "name": "V\u00edna Bordeaux Laville Pavillon",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-bordeaux-laville-pavillon",
+    "data-product": "vina-bordeaux-laville-pavillon"
+},
+{
+    "name": "P\u00e1lenka Meru\u0148ka Kr\u00e1lovsk\u00e1 pal\u00edrna",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenka-merunka-kralovska-palirna",
+    "data-product": "palenka-merunka-kralovska-palirna"
+},
+{
+    "name": "V\u00edno Ryzlink r\u00fdnsk\u00fd Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-ryzlink-rynsky-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-ryzlink-rynsky-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Muscat Aurvin",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muscat-aurvin",
+    "data-product": "vino-muscat-aurvin"
+},
+{
+    "name": "V\u00edno M\u00fcller Thurgau Templ\u00e1\u0159sk\u00e9 sklepy \u010cejkovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muller-thurgau-templarske-sklepy-cejkovice",
+    "data-product": "vino-muller-thurgau-templarske-sklepy-cejkovice"
+},
+{
+    "name": "V\u00edno Ryzlink vla\u0161sk\u00fd Templ\u00e1\u0159sk\u00e9 sklepy \u010cejkovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-ryzlink-vlassky-templarske-sklepy-cejkovice",
+    "data-product": "vino-ryzlink-vlassky-templarske-sklepy-cejkovice"
+},
+{
+    "name": "Pivo polotmav\u00fd le\u017e\u00e1k 12 Kanec Z\u00e1meck\u00fd pivovar B\u0159eclav",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-polotmavy-lezak-12-kanec-zamecky-pivovar-breclav",
+    "data-product": "pivo-polotmavy-lezak-12-kanec-zamecky-pivovar-breclav"
+},
+{
+    "name": "Sekt Brut Cava Tesco",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-brut-cava-tesco",
+    "data-product": "sekt-brut-cava-tesco"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 11\u00b0 Pivovar Rycht\u00e1\u0159",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-11-pivovar-rychtar",
+    "data-product": "pivo-svetly-lezak-11-pivovar-rychtar"
+},
+{
+    "name": "V\u00edna Hab\u00e1nsk\u00e9 sklepy - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-habanske-sklepy-privlastkova",
+    "data-product": "vina-habanske-sklepy-privlastkova"
+},
+{
+    "name": "Sekt Brut Veuve Cliquot",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-brut-veuve-cliquot",
+    "data-product": "sekt-brut-veuve-cliquot"
+},
+{
+    "name": "V\u00edna Varietal Tarapaca",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-varietal-tarapaca",
+    "data-product": "vina-varietal-tarapaca"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc Marlborough Tesco Finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-marlborough-tesco-finest",
+    "data-product": "vino-sauvignon-blanc-marlborough-tesco-finest"
+},
+{
+    "name": "V\u00edno Sauvignon Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-sauvignon-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Chardonnay Campo de Chile",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-campo-de-chile",
+    "data-product": "vino-chardonnay-campo-de-chile"
+},
+{
+    "name": "V\u00edno Veltl\u00ednsk\u00e9 zelen\u00e9 Templ\u00e1\u0159sk\u00e9 sklepy \u010cejkovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-veltlinske-zelene-templarske-sklepy-cejkovice",
+    "data-product": "vino-veltlinske-zelene-templarske-sklepy-cejkovice"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 \u0161ed\u00e9 Eminhof Diana Moravia - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-sede-eminhof-diana-moravia-pozdni-sber",
+    "data-product": "vino-rulandske-sede-eminhof-diana-moravia-pozdni-sber"
+},
+{
+    "name": "V\u00edno Pinot Grigio Tesco Finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-pinot-grigio-tesco-finest",
+    "data-product": "vino-pinot-grigio-tesco-finest"
+},
+{
+    "name": "V\u00edna Templ\u00e1\u0159sk\u00e9 sklepy \u010cejkovice - bag in box",
+    "amount": "5 l",
+    "endpoint": "/sleva/vina-templarske-sklepy-cejkovice-bag-in-box",
+    "data-product": "vina-templarske-sklepy-cejkovice-bag-in-box"
+},
+{
+    "name": "P\u00e1lenka T\u0159e\u0161\u0148ovice Rudolf Jel\u00ednek",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-tresnovice-rudolf-jelinek",
+    "data-product": "palenka-tresnovice-rudolf-jelinek"
+},
+{
+    "name": "Prosecco Extra Dry Superiore Spumante",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-extra-dry-superiore-spumante",
+    "data-product": "prosecco-extra-dry-superiore-spumante"
+},
+{
+    "name": "Prosecco brut DOC Tesco finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-brut-doc-tesco-finest",
+    "data-product": "prosecco-brut-doc-tesco-finest"
+},
+{
+    "name": "Lik\u00e9r Sambuca Molinari",
+    "amount": "1 l",
+    "endpoint": "/sleva/liker-sambuca-molinari",
+    "data-product": "liker-sambuca-molinari"
+},
+{
+    "name": "V\u00edno Chardonnay Tini - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-chardonnay-tini-bag-in-box",
+    "data-product": "vino-chardonnay-tini-bag-in-box"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Pilsner Edelmeister",
+    "amount": "0.33 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-pilsner-edelmeister",
+    "data-product": "pivo-svetly-lezak-pilsner-edelmeister"
+},
+{
+    "name": "Lik\u00e9r Griotka \u0160vejk Rudolf Jel\u00ednek",
+    "amount": "1 l",
+    "endpoint": "/sleva/liker-griotka-svejk-rudolf-jelinek",
+    "data-product": "liker-griotka-svejk-rudolf-jelinek"
+},
+{
+    "name": "P\u00e1lenka Slivovice zlat\u00e1 Vizovick\u00e1 Rudolf Jel\u00ednek",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-slivovice-zlata-vizovicka-rudolf-jelinek",
+    "data-product": "palenka-slivovice-zlata-vizovicka-rudolf-jelinek"
+},
+{
+    "name": "V\u00edna Cantine Delibori",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-cantine-delibori",
+    "data-product": "vina-cantine-delibori"
+},
+{
+    "name": "V\u00edno Merlot Jean Claude Mas",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-jean-claude-mas",
+    "data-product": "vino-merlot-jean-claude-mas"
+},
+{
+    "name": "V\u00edna Vinium Velk\u00e9 Pavlovice - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-vinium-velke-pavlovice-privlastkova",
+    "data-product": "vina-vinium-velke-pavlovice-privlastkova"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Reserva Vi\u0148a Tarapaca",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-reserva-vina-tarapaca",
+    "data-product": "vino-cabernet-sauvignon-reserva-vina-tarapaca"
+},
+{
+    "name": "V\u00edno Chardonnay Trapiche",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-trapiche",
+    "data-product": "vino-chardonnay-trapiche"
+},
+{
+    "name": "Whisky 100 Proof Bond Jack Daniel's",
+    "amount": "1 l",
+    "endpoint": "/sleva/whisky-100-proof-bond-jack-daniel-s",
+    "data-product": "whisky-100-proof-bond-jack-daniel-s"
+},
+{
+    "name": "V\u00edno M\u00fcller Thurgau ,,B\" Budamont",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muller-thurgau-b-budamont",
+    "data-product": "vino-muller-thurgau-b-budamont"
+},
+{
+    "name": "V\u00edno White Royal Oporto Real Companhia Velha",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-white-royal-oporto-real-companhia-velha",
+    "data-product": "vino-white-royal-oporto-real-companhia-velha"
+},
+{
+    "name": "Ko\u0148ak Pearadise Godet",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/konak-pearadise-godet",
+    "data-product": "konak-pearadise-godet"
+},
+{
+    "name": "V\u00edno Pinot Noir Marlborough",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-pinot-noir-marlborough",
+    "data-product": "vino-pinot-noir-marlborough"
+},
+{
+    "name": "V\u00edno Chardonnay Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-chardonnay-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Veltl\u00ednsk\u00e9 zelen\u00e9 Znov\u00edn Znojmo",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-veltlinske-zelene-znovin-znojmo",
+    "data-product": "vino-veltlinske-zelene-znovin-znojmo"
+},
+{
+    "name": "Vino La Mancha Blanco bio Alnatura",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-la-mancha-blanco-bio-alnatura",
+    "data-product": "vino-la-mancha-blanco-bio-alnatura"
+},
+{
+    "name": "V\u00edno ovocn\u00e9",
+    "amount": "2 l",
+    "endpoint": "/sleva/vino-ovocne",
+    "data-product": "vino-ovocne"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc  Marlborough Cimarosa",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-marlborough-cimarosa",
+    "data-product": "vino-sauvignon-blanc-marlborough-cimarosa"
+},
+{
+    "name": "Cidre Andr\u00e9 Jalbert",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/cidre-andre-jalbert",
+    "data-product": "cidre-andre-jalbert"
+},
+{
+    "name": "V\u00edno Frankovka Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-frankovka-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-frankovka-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Frankovka Znov\u00edn Znojmo",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-frankovka-znovin-znojmo",
+    "data-product": "vino-frankovka-znovin-znojmo"
+},
+{
+    "name": "V\u00edno stoln\u00ed Z\u00e1meck\u00e1 pan\u00ed",
+    "amount": "2 l",
+    "endpoint": "/sleva/vino-stolni-zamecka-pani",
+    "data-product": "vino-stolni-zamecka-pani"
+},
+{
+    "name": "Lik\u00e9r Peprmint \u0160vejk Rudolf Jel\u00ednek",
+    "amount": "1 l",
+    "endpoint": "/sleva/liker-peprmint-svejk-rudolf-jelinek",
+    "data-product": "liker-peprmint-svejk-rudolf-jelinek"
+},
+{
+    "name": "Whisky Cinnamon Evan Williams",
+    "amount": "1 l",
+    "endpoint": "/sleva/whisky-cinnamon-evan-williams",
+    "data-product": "whisky-cinnamon-evan-williams"
+},
+{
+    "name": "Whisky Black Evan Williams",
+    "amount": "1 l",
+    "endpoint": "/sleva/whisky-black-evan-williams",
+    "data-product": "whisky-black-evan-williams"
+},
+{
+    "name": "Prosecco extra brut Asolo",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-extra-brut-asolo",
+    "data-product": "prosecco-extra-brut-asolo"
+},
+{
+    "name": "V\u00edno Diana Moravia - p\u0159\u00edvlastkov\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-diana-moravia-privlastkove",
+    "data-product": "vino-diana-moravia-privlastkove"
+},
+{
+    "name": "P\u00e1lenky Fleret",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenky-fleret",
+    "data-product": "palenky-fleret"
+},
+{
+    "name": "V\u00edno Chardonnay Aurvin",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-aurvin",
+    "data-product": "vino-chardonnay-aurvin"
+},
+{
+    "name": "V\u00edno Merlot Aurvin",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-aurvin",
+    "data-product": "vino-merlot-aurvin"
+},
+{
+    "name": "Vino La Mancha Tinto bio Alnatura",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-la-mancha-tinto-bio-alnatura",
+    "data-product": "vino-la-mancha-tinto-bio-alnatura"
+},
+{
+    "name": "V\u00edno Ryzlink r\u00fdnsk\u00fd R\u00e9va Rakvice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-ryzlink-rynsky-reva-rakvice",
+    "data-product": "vino-ryzlink-rynsky-reva-rakvice"
+},
+{
+    "name": "Sekt nealkoholick\u00fd d\u011btsk\u00fd Bimovy bubliny Ovonela",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/sekt-nealkoholicky-detsky-bimovy-bubliny-ovonela",
+    "data-product": "sekt-nealkoholicky-detsky-bimovy-bubliny-ovonela"
+},
+{
+    "name": "Prosecco Gold Bottega",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-gold-bottega",
+    "data-product": "prosecco-gold-bottega"
+},
+{
+    "name": "Prosecco Bisol Tesco Finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-bisol-tesco-finest",
+    "data-product": "prosecco-bisol-tesco-finest"
+},
+{
+    "name": "V\u00edno Chardonnay Oak Cask Trapiche",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-oak-cask-trapiche",
+    "data-product": "vino-chardonnay-oak-cask-trapiche"
+},
+{
+    "name": "Sekt Semi Seco Carta Nevada Freixenet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-semi-seco-carta-nevada-freixenet",
+    "data-product": "sekt-semi-seco-carta-nevada-freixenet"
+},
+{
+    "name": "Pivo Oktoberfest Bier Paulaner - d\u00e1rkov\u00e9 balen\u00ed",
+    "amount": "1 l",
+    "endpoint": "/sleva/pivo-oktoberfest-bier-paulaner-darkove-baleni",
+    "data-product": "pivo-oktoberfest-bier-paulaner-darkove-baleni"
+},
+{
+    "name": "V\u00edno Merlot Pays d'Oc Chevalier de Fauvert",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-pays-doc-chevalier-de-fauvert",
+    "data-product": "vino-merlot-pays-doc-chevalier-de-fauvert"
+},
+{
+    "name": "V\u00edno \u010derven\u00e9 C\u00f4tes du Rh\u00f4ne",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cervene-cotes-du-rhone",
+    "data-product": "vino-cervene-cotes-du-rhone"
+},
+{
+    "name": "V\u00edno Tram\u00edn \u010derven\u00fd Vinn\u00e9 sklepy Lechovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-tramin-cerveny-vinne-sklepy-lechovice",
+    "data-product": "vino-tramin-cerveny-vinne-sklepy-lechovice"
+},
+{
+    "name": "V\u00edna Vinium Exclusive Morava Velk\u00e9 Pavlovice - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-vinium-exclusive-morava-velke-pavlovice-pozdni-sber",
+    "data-product": "vina-vinium-exclusive-morava-velke-pavlovice-pozdni-sber"
+},
+{
+    "name": "Whisky Legacy Edition 2 Jack Daniel's",
+    "amount": "1 ks",
+    "endpoint": "/sleva/whisky-legacy-edition-2-jack-daniels",
+    "data-product": "whisky-legacy-edition-2-jack-daniels"
+},
+{
+    "name": "Prosecco Organic Canti",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-organic-canti",
+    "data-product": "prosecco-organic-canti"
+},
+{
+    "name": "V\u00edno Chardonnay Jean Claude Mas",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-jean-claude-mas",
+    "data-product": "vino-chardonnay-jean-claude-mas"
+},
+{
+    "name": "V\u00edna Selection Barrique Sommelier Club V\u00edno Mikulov",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-selection-barrique-sommelier-club-vino-mikulov",
+    "data-product": "vina-selection-barrique-sommelier-club-vino-mikulov"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed extra strong Bock",
+    "amount": "1.5 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-extra-strong-bock",
+    "data-product": "pivo-svetle-vycepni-extra-strong-bock"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k nefiltrovan\u00fd V\u00e1clav Litovel",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-nefiltrovany-vaclav-litovel",
+    "data-product": "pivo-svetly-lezak-nefiltrovany-vaclav-litovel"
+},
+{
+    "name": "V\u00edno Eminhof Diana Moravia Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec - p\u0159\u00edvlastkov\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-eminhof-diana-moravia-zamecke-vinarstvi-bzenec-privlastkove",
+    "data-product": "vino-eminhof-diana-moravia-zamecke-vinarstvi-bzenec-privlastkove"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc Wairau Cove",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-wairau-cove",
+    "data-product": "vino-sauvignon-blanc-wairau-cove"
+},
+{
+    "name": "V\u00edno Riesling Mosel Tesco Finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-riesling-mosel-tesco-finest",
+    "data-product": "vino-riesling-mosel-tesco-finest"
+},
+{
+    "name": "V\u00edno Veltl\u00ednsk\u00e9 zelen\u00e9 ,,B\" Budamont",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-veltlinske-zelene-b-budamont",
+    "data-product": "vino-veltlinske-zelene-b-budamont"
+},
+{
+    "name": "V\u00edno \u010derven\u00e9 Bordeaux Cour De Mandelotte",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cervene-bordeaux-cour-de-mandelotte",
+    "data-product": "vino-cervene-bordeaux-cour-de-mandelotte"
+},
+{
+    "name": "V\u00edno Zweigeltrebe Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-zweigeltrebe-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-zweigeltrebe-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edna Butterfly Albastrele Wines S.R.L.",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-butterfly-albastrele-wines-s-r-l",
+    "data-product": "vina-butterfly-albastrele-wines-s-r-l"
+},
+{
+    "name": "Bohemia Sekt \u010derven\u00fd Brut",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/bohemia-sekt-cerveny-brut",
+    "data-product": "bohemia-sekt-cerveny-brut"
+},
+{
+    "name": "Vino Rosado La Mancha bio Alnatura",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rosado-la-mancha-bio-alnatura",
+    "data-product": "vino-rosado-la-mancha-bio-alnatura"
+},
+{
+    "name": "V\u00edno Condor Peak",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-condor-peak",
+    "data-product": "vino-condor-peak"
+},
+{
+    "name": "V\u00edna Reserve B&G",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-reserve-b-g",
+    "data-product": "vina-reserve-b-g"
+},
+{
+    "name": "V\u00edna Templ\u00e1\u0159sk\u00e9 sklepy \u010cejkovice - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-templarske-sklepy-cejkovice-privlastkova",
+    "data-product": "vina-templarske-sklepy-cejkovice-privlastkova"
+},
+{
+    "name": "V\u00edna Vinn\u00fd sklep Sov\u00edn - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-vinny-sklep-sovin-privlastkova",
+    "data-product": "vina-vinny-sklep-sovin-privlastkova"
+},
+{
+    "name": "V\u00edno P\u00e1lava Amethyst Collection Vina\u0159stv\u00ed P\u00e1n\u016f z Lip\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-palava-amethyst-collection-vinarstvi-panu-z-lipe",
+    "data-product": "vino-palava-amethyst-collection-vinarstvi-panu-z-lipe"
+},
+{
+    "name": "V\u00edno Chardonnay Vinn\u00fd sklep Sov\u00edn",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-vinny-sklep-sovin",
+    "data-product": "vino-chardonnay-vinny-sklep-sovin"
+},
+{
+    "name": "V\u00edno Muscat ros\u00e9 Butterfly Albastrele Wines S.R.L.",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muscat-rose-butterfly-albastrele-wines-srl",
+    "data-product": "vino-muscat-rose-butterfly-albastrele-wines-srl"
+},
+{
+    "name": "Frizzante N\u00e1\u0161 sad",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/frizzante-nas-sad",
+    "data-product": "frizzante-nas-sad"
+},
+{
+    "name": "Champagne Premier Cru Tesco Finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/champagne-premier-cru-tesco-finest",
+    "data-product": "champagne-premier-cru-tesco-finest"
+},
+{
+    "name": "P\u00e1lenka Slivovice Collection 1850 Fleret",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/palenka-slivovice-collection-1850-fleret",
+    "data-product": "palenka-slivovice-collection-1850-fleret"
+},
+{
+    "name": "Vodka Moskovskaya",
+    "amount": "1 l",
+    "endpoint": "/sleva/vodka-moskovskaya",
+    "data-product": "vodka-moskovskaya"
+},
+{
+    "name": "Lik\u00e9r Licor 43",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/liker-licor-43",
+    "data-product": "liker-licor-43"
+},
+{
+    "name": "V\u00edna ovocn\u00e1 Vivata",
+    "amount": "1 l",
+    "endpoint": "/sleva/vina-ovocna-vivata",
+    "data-product": "vina-ovocna-vivata"
+},
+{
+    "name": "Tuzem\u00e1k Firemark",
+    "amount": "1 l",
+    "endpoint": "/sleva/tuzemak-firemark",
+    "data-product": "tuzemak-firemark"
+},
+{
+    "name": "V\u00edno Chateau Combet La Roche Monbazillac",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chateau-combet-la-roche-monbazillac",
+    "data-product": "vino-chateau-combet-la-roche-monbazillac"
+},
+{
+    "name": "V\u00edno Riesling Jean Cornelius Alsace",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-riesling-jean-cornelius-alsace",
+    "data-product": "vino-riesling-jean-cornelius-alsace"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 \u0161ed\u00e9 Vina\u0159stv\u00ed Ostrovec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-sede-vinarstvi-ostrovec-2",
+    "data-product": "vino-rulandske-sede-vinarstvi-ostrovec-2"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 modr\u00e9 Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-modre-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-rulandske-modre-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Merlot Campo de Chile",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-campo-de-chile",
+    "data-product": "vino-merlot-campo-de-chile"
+},
+{
+    "name": "V\u00edno Primitivo Wein Genuss",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-primitivo-wein-genuss",
+    "data-product": "vino-primitivo-wein-genuss"
+},
+{
+    "name": "P\u00e1lenka Moravsk\u00e1 Jaderni\u010dka Rudolf Jel\u00ednek",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-moravska-jadernicka-rudolf-jelinek",
+    "data-product": "palenka-moravska-jadernicka-rudolf-jelinek"
+},
+{
+    "name": "Lik\u00e9r Griotka",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/liker-griotka",
+    "data-product": "liker-griotka"
+},
+{
+    "name": "V\u00edna Morava Classic Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-morava-classic-zamecke-vinarstvi-bzenec",
+    "data-product": "vina-morava-classic-zamecke-vinarstvi-bzenec"
+},
+{
+    "name": "V\u00edno Riesling Ernst Ludwig",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-riesling-ernst-ludwig",
+    "data-product": "vino-riesling-ernst-ludwig"
+},
+{
+    "name": "Sekt Cavignon",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-cavignon",
+    "data-product": "sekt-cavignon"
+},
+{
+    "name": "V\u00edna Vina\u0159stv\u00ed P\u00e1n\u016f z Lip\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-vinarstvi-panu-z-lipe",
+    "data-product": "vina-vinarstvi-panu-z-lipe"
+},
+{
+    "name": "V\u00edno Sauvignon Cellarium Bisencii Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-cellarium-bisencii-zamecke-vinarstvi-bzenec",
+    "data-product": "vino-sauvignon-cellarium-bisencii-zamecke-vinarstvi-bzenec"
+},
+{
+    "name": "V\u00edno Svatovav\u0159ineck\u00e9 klaret Vina\u0159stv\u00ed B\u0159eclav - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-svatovavrinecke-klaret-vinarstvi-breclav-pozdni-sber",
+    "data-product": "vino-svatovavrinecke-klaret-vinarstvi-breclav-pozdni-sber"
+},
+{
+    "name": "V\u00edno Dornfelder Vina\u0159stv\u00ed B\u0159eclav",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-dornfelder-vinarstvi-breclav",
+    "data-product": "vino-dornfelder-vinarstvi-breclav"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc Southern Ocean",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-southern-ocean",
+    "data-product": "vino-sauvignon-blanc-southern-ocean"
+},
+{
+    "name": "V\u00edno Chianti Casa Roscoli",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chianti-casa-roscoli",
+    "data-product": "vino-chianti-casa-roscoli"
+},
+{
+    "name": "Ko\u0148ak VSOP Elegance Camus",
+    "amount": "1 l",
+    "endpoint": "/sleva/konak-vsop-elegance-camus",
+    "data-product": "konak-vsop-elegance-camus"
+},
+{
+    "name": "V\u00edno Merlot Brise de France - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-merlot-brise-de-france-bag-in-box",
+    "data-product": "vino-merlot-brise-de-france-bag-in-box"
+},
+{
+    "name": "Pivo ochucen\u00e9 Cortes",
+    "amount": "0.33 l",
+    "endpoint": "/sleva/pivo-ochucene-cortes",
+    "data-product": "pivo-ochucene-cortes"
+},
+{
+    "name": "Prosecco Brut Dino",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/prosecco-brut-dino",
+    "data-product": "prosecco-brut-dino"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc  Pays d'Oc Chevalier de Fauvert",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-pays-doc-chevalier-de-fauvert",
+    "data-product": "vino-sauvignon-blanc-pays-doc-chevalier-de-fauvert"
+},
+{
+    "name": "V\u00edno M\u00e9doc",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-medoc",
+    "data-product": "vino-medoc"
+},
+{
+    "name": "V\u00edno Frankovka Vina\u0159stv\u00ed Ostrovec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-frankovka-vinarstvi-ostrovec",
+    "data-product": "vino-frankovka-vinarstvi-ostrovec"
+},
+{
+    "name": "V\u00edno Modr\u00fd Portugal Vina\u0159stv\u00ed Ostrovec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-modry-portugal-vinarstvi-ostrovec",
+    "data-product": "vino-modry-portugal-vinarstvi-ostrovec"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-cabernet-sauvignon-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 b\u00edl\u00e9 V\u00edno z Kobyl\u00ed",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-bile-vino-z-kobyli",
+    "data-product": "vino-rulandske-bile-vino-z-kobyli"
+},
+{
+    "name": "V\u00edna Sklepy svat\u00e9 Kate\u0159iny - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-sklepy-svate-kateriny-privlastkova",
+    "data-product": "vina-sklepy-svate-kateriny-privlastkova"
+},
+{
+    "name": "Vodka \u0160vejk Rudolf Jel\u00ednek",
+    "amount": "1 l",
+    "endpoint": "/sleva/vodka-svejk-rudolf-jelinek",
+    "data-product": "vodka-svejk-rudolf-jelinek"
+},
+{
+    "name": "V\u00edna Vina\u0159stv\u00ed Vinn\u00fd d\u016fm Bzenec - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vina-vinarstvi-vinny-dum-bzenec-bag-in-box",
+    "data-product": "vina-vinarstvi-vinny-dum-bzenec-bag-in-box"
+},
+{
+    "name": "V\u00edno Vi\u0148a Lanzar",
+    "amount": "1 l",
+    "endpoint": "/sleva/vino-vina-lanzar",
+    "data-product": "vino-vina-lanzar"
+},
+{
+    "name": "Sekt Brut Gran Selezione Prospero",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-brut-gran-selezione-prospero",
+    "data-product": "sekt-brut-gran-selezione-prospero"
+},
+{
+    "name": "V\u00edna Terezi\u00e1nsk\u00e9 sklepy - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-terezianske-sklepy-privlastkova",
+    "data-product": "vina-terezianske-sklepy-privlastkova"
+},
+{
+    "name": "V\u00edna Augustini\u00e1nsk\u00fd sklep - p\u0159\u00edvlastkov\u00e1",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-augustiniansky-sklep-privlastkova",
+    "data-product": "vina-augustiniansky-sklep-privlastkova"
+},
+{
+    "name": "Pivo Novopack\u00fd le\u017e\u00e1k Pivovar Nov\u00e1 Paka",
+    "amount": "1.5 l",
+    "endpoint": "/sleva/pivo-novopacky-lezak-pivovar-nova-paka",
+    "data-product": "pivo-novopacky-lezak-pivovar-nova-paka"
+},
+{
+    "name": "V\u00edno Cabernet Moravia Vina\u0159stv\u00ed Ludwig",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-moravia-vinarstvi-ludwig",
+    "data-product": "vino-cabernet-moravia-vinarstvi-ludwig"
+},
+{
+    "name": "V\u00edno Malbec Petite Ville",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-malbec-petite-ville",
+    "data-product": "vino-malbec-petite-ville"
+},
+{
+    "name": "V\u00edna Casa Roscoli",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-casa-roscoli",
+    "data-product": "vina-casa-roscoli"
+},
+{
+    "name": "V\u00edno Primitivo Puglia Terre Avare",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-primitivo-puglia-terre-avare",
+    "data-product": "vino-primitivo-puglia-terre-avare"
+},
+{
+    "name": "V\u00edno Egri Bikav\u00e9r Tesco",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-egri-bikaver-tesco",
+    "data-product": "vino-egri-bikaver-tesco"
+},
+{
+    "name": "Brandy Authentic Regular X.O. ST- R\u00e9my",
+    "amount": "1 l",
+    "endpoint": "/sleva/brandy-authentic-regular-xo-st-remy",
+    "data-product": "brandy-authentic-regular-xo-st-remy"
+},
+{
+    "name": "Lik\u00e9r Wild Africa KWV",
+    "amount": "1 l",
+    "endpoint": "/sleva/liker-wild-africa-kwv",
+    "data-product": "liker-wild-africa-kwv"
+},
+{
+    "name": "V\u00edna Lions Gate - bag in box",
+    "amount": "2.25 l",
+    "endpoint": "/sleva/vina-lions-gate-bag-in-box",
+    "data-product": "vina-lions-gate-bag-in-box"
+},
+{
+    "name": "Pivo nefiltrovan\u00fd sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Brn\u011bnsk\u00e1 Hauskrecht",
+    "amount": "1 l",
+    "endpoint": "/sleva/pivo-nefiltrovany-svetly-lezak-12-brnenska-hauskrecht",
+    "data-product": "pivo-nefiltrovany-svetly-lezak-12-brnenska-hauskrecht"
+},
+{
+    "name": "Pivo IPA 12\u00b0 Nachmelen\u00e1 opice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/pivo-ipa-12-nachmelena-opice",
+    "data-product": "pivo-ipa-12-nachmelena-opice"
+},
+{
+    "name": "Perliv\u00e9 v\u00edno Andr\u00e9 ros\u00e9 Moravsk\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/perlive-vino-andre-rose-moravske",
+    "data-product": "perlive-vino-andre-rose-moravske"
+},
+{
+    "name": "V\u00edno Primitivo Salento Pasqua - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-primitivo-salento-pasqua-bag-in-box",
+    "data-product": "vino-primitivo-salento-pasqua-bag-in-box"
+},
+{
+    "name": "V\u00edno Chardonnay Brise de France - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-chardonnay-brise-de-france-bag-in-box",
+    "data-product": "vino-chardonnay-brise-de-france-bag-in-box"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Birra Moretti",
+    "amount": "0.33 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-birra-moretti",
+    "data-product": "pivo-svetly-lezak-birra-moretti"
+},
+{
+    "name": "Rum Two Parrots",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/rum-two-parrots",
+    "data-product": "rum-two-parrots"
+},
+{
+    "name": "Tequila zlat\u00e1 Pueblo",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/tequila-zlata-pueblo",
+    "data-product": "tequila-zlata-pueblo"
+},
+{
+    "name": "Vodka Silver Coupage",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/vodka-silver-coupage",
+    "data-product": "vodka-silver-coupage"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc Val de Loire",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-val-de-loire",
+    "data-product": "vino-sauvignon-blanc-val-de-loire"
+},
+{
+    "name": "V\u00edno Muscadet S\u00e9vre et Maine",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muscadet-sevre-et-maine",
+    "data-product": "vino-muscadet-sevre-et-maine"
+},
+{
+    "name": "V\u00edno Bordeaux Vin de Bordeaux",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-bordeaux-vin-de-bordeaux",
+    "data-product": "vino-bordeaux-vin-de-bordeaux"
+},
+{
+    "name": "V\u00edno \u010derven\u00e9 Coteaux Bourguignons Vin de Bourgogne",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cervene-coteaux-bourguignons-vin-de-bourgogne",
+    "data-product": "vino-cervene-coteaux-bourguignons-vin-de-bourgogne"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 \u0161ed\u00e9 Collection 1508 Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-sede-collection-1508-zamecke-vinarstvi-bzenec-pozdni-sber",
+    "data-product": "vino-rulandske-sede-collection-1508-zamecke-vinarstvi-bzenec-pozdni-sber"
+},
+{
+    "name": "V\u00edno Tram\u00edn \u010derven\u00fd 1508 Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-tramin-cerveny-1508-zamecke-vinarstvi-bzenec-pozdni-sber",
+    "data-product": "vino-tramin-cerveny-1508-zamecke-vinarstvi-bzenec-pozdni-sber"
+},
+{
+    "name": "V\u00edno Chardonnay Vinn\u00e9 sklepy Lechovice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-vinne-sklepy-lechovice",
+    "data-product": "vino-chardonnay-vinne-sklepy-lechovice"
+},
+{
+    "name": "V\u00edno Modr\u00fd portugal Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-modry-portugal-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-modry-portugal-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno M\u00fcller Thurgau V\u00edno z Kobyl\u00ed",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muller-thurgau-vino-z-kobyli",
+    "data-product": "vino-muller-thurgau-vino-z-kobyli"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Les Aromes",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-les-aromes",
+    "data-product": "vino-cabernet-sauvignon-les-aromes"
+},
+{
+    "name": "V\u00edno bio Dornfelder",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-bio-dornfelder",
+    "data-product": "vino-bio-dornfelder"
+},
+{
+    "name": "Pivo Strong Blond Affligem",
+    "amount": "0.3 l",
+    "endpoint": "/sleva/pivo-strong-blond-affligem",
+    "data-product": "pivo-strong-blond-affligem"
+},
+{
+    "name": "Pivo Classic Barley",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-classic-barley",
+    "data-product": "pivo-classic-barley"
+},
+{
+    "name": "Pivo Strong Edelmeister",
+    "amount": "0.5 l",
+    "endpoint": "/sleva/pivo-strong-edelmeister",
+    "data-product": "pivo-strong-edelmeister"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc Roche Mazet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-roche-mazet",
+    "data-product": "vino-sauvignon-blanc-roche-mazet"
+},
+{
+    "name": "V\u00edno Consigna",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-consigna",
+    "data-product": "vino-consigna"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 modr\u00e9 Barique Selection Sommelier Club V\u00edno Mikulov",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-modre-barique-selection-sommelier-club-vino-mikulov",
+    "data-product": "vino-rulandske-modre-barique-selection-sommelier-club-vino-mikulov"
+},
+{
+    "name": "V\u00edno Irsai Oliver Hungarian F. Boranal",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-irsai-oliver-hungarian-f-boranal",
+    "data-product": "vino-irsai-oliver-hungarian-f-boranal"
+},
+{
+    "name": "V\u00edno Chardonnay Kazayak",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-kazayak",
+    "data-product": "vino-chardonnay-kazayak"
+},
+{
+    "name": "V\u00edno Merlot Kazayak",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-kazayak",
+    "data-product": "vino-merlot-kazayak"
+},
+{
+    "name": "V\u00edno Tempranillo Tesco Finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-tempranillo-tesco-finest",
+    "data-product": "vino-tempranillo-tesco-finest"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 b\u00edl\u00e9 Vina\u0159stv\u00ed Barborka",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-bile-vinarstvi-barborka",
+    "data-product": "vino-rulandske-bile-vinarstvi-barborka"
+},
+{
+    "name": "V\u00edno Cabernet Moravia Ros\u00e9 Collection Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-moravia-rose-collection-zamecke-vinarstvi-bzenec",
+    "data-product": "vino-cabernet-moravia-rose-collection-zamecke-vinarstvi-bzenec"
+},
+{
+    "name": "V\u00edno Frankovka Ros\u00e9 V\u00edno Mikulov",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-frankovka-rose-vino-mikulov",
+    "data-product": "vino-frankovka-rose-vino-mikulov"
+},
+{
+    "name": "V\u00edno Frankovka Sommelier Club V\u00edno Mikulov",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-frankovka-sommelier-club-vino-mikulov",
+    "data-product": "vino-frankovka-sommelier-club-vino-mikulov"
+},
+{
+    "name": "V\u00edna Klassik Vina\u0159stv\u00ed Wegenstein",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-klassik-vinarstvi-wegenstein",
+    "data-product": "vina-klassik-vinarstvi-wegenstein"
+},
+{
+    "name": "V\u00edno Frankovka modr\u00e1 Vinn\u00e9 sklepy Milotice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-frankovka-modra-vinne-sklepy-milotice",
+    "data-product": "vino-frankovka-modra-vinne-sklepy-milotice"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon R\u00e9va Rakvice",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-reva-rakvice",
+    "data-product": "vino-cabernet-sauvignon-reva-rakvice"
+},
+{
+    "name": "V\u00edno Modr\u00fd Portugal Modr\u00e9 hory Vina\u0159stv\u00ed Ludwig",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-modry-portugal-modre-hory-vinarstvi-ludwig",
+    "data-product": "vino-modry-portugal-modre-hory-vinarstvi-ludwig"
+},
+{
+    "name": "V\u00edno Gr\u00fcner Veltliner Hammerstein",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-gruner-veltliner-hammerstein",
+    "data-product": "vino-gruner-veltliner-hammerstein"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc Anakena",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-anakena",
+    "data-product": "vino-sauvignon-blanc-anakena"
+},
+{
+    "name": "V\u00edno Moscato Cape Grove",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-moscato-cape-grove",
+    "data-product": "vino-moscato-cape-grove"
+},
+{
+    "name": "V\u00edno Pinotage Lion's Gate",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-pinotage-lion-s-gate",
+    "data-product": "vino-pinotage-lion-s-gate"
+},
+{
+    "name": "V\u00edno Malbec Steak Maker",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-malbec-steak-maker",
+    "data-product": "vino-malbec-steak-maker"
+},
+{
+    "name": "Sekt Frizzante Fiorbello",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-frizzante-fiorbello",
+    "data-product": "sekt-frizzante-fiorbello"
+},
+{
+    "name": "V\u00edno Chianti Classico Tesco Finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chianti-classico-tesco-finest",
+    "data-product": "vino-chianti-classico-tesco-finest"
+},
+{
+    "name": "V\u00edno Vineyards World Wines",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-vineyards-world-wines",
+    "data-product": "vino-vineyards-world-wines"
+},
+{
+    "name": "Absinth Beetle",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/absinth-beetle",
+    "data-product": "absinth-beetle"
+},
+{
+    "name": "Whisky White Label Dewar's",
+    "amount": "1 l",
+    "endpoint": "/sleva/whisky-white-label-dewar-s",
+    "data-product": "whisky-white-label-dewar-s"
+},
+{
+    "name": "Whisky Reserve John Barr",
+    "amount": "1 l",
+    "endpoint": "/sleva/whisky-reserve-john-barr",
+    "data-product": "whisky-reserve-john-barr"
+},
+{
+    "name": "Vodka Black Three Sixty",
+    "amount": "1 l",
+    "endpoint": "/sleva/vodka-black-three-sixty",
+    "data-product": "vodka-black-three-sixty"
+},
+{
+    "name": "V\u00edno Malbec Tesco Finest",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-malbec-tesco-finest",
+    "data-product": "vino-malbec-tesco-finest"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k Jura 11 Jaro\u0161ovsk\u00fd pivovar",
+    "amount": "1.5 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-jura-11-jarosovsky-pivovar",
+    "data-product": "pivo-svetly-lezak-jura-11-jarosovsky-pivovar"
+},
+{
+    "name": "Pivo siln\u00e9 California 12\u00b0 Matu\u0161ka",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/pivo-silne-california-12-matuska",
+    "data-product": "pivo-silne-california-12-matuska"
+},
+{
+    "name": "V\u00edno Chardonnay ,,B\" Budamont",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-b-budamont",
+    "data-product": "vino-chardonnay-b-budamont"
+},
+{
+    "name": "V\u00edno Merlot ,,B\" Budamont",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-b-budamont",
+    "data-product": "vino-merlot-b-budamont"
+},
+{
+    "name": "Perliv\u00e9 v\u00edno Chardonnay Moravsk\u00e9",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/perlive-vino-chardonnay-moravske",
+    "data-product": "perlive-vino-chardonnay-moravske"
+},
+{
+    "name": "V\u00edna Miguel Torres",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-miguel-torres",
+    "data-product": "vina-miguel-torres"
+},
+{
+    "name": "Sekt Cordon Rosado Freixenet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/sekt-cordon-rosado-freixenet",
+    "data-product": "sekt-cordon-rosado-freixenet"
+},
+{
+    "name": "V\u00edna Reserve G\u00e9rard Bertrand",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vina-reserve-gerard-bertrand",
+    "data-product": "vina-reserve-gerard-bertrand"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc Campo - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-campo-bag-in-box",
+    "data-product": "vino-sauvignon-blanc-campo-bag-in-box"
+},
+{
+    "name": "V\u00edno Ros\u00e9 Brise de France - bag in box",
+    "amount": "3 l",
+    "endpoint": "/sleva/vino-rose-brise-de-france-bag-in-box",
+    "data-product": "vino-rose-brise-de-france-bag-in-box"
+},
+{
+    "name": "V\u00edno M\u00fcller Thurgau Kn\u00ed\u017eec\u00ed sklepy Valtice - bag in box",
+    "amount": "5 l",
+    "endpoint": "/sleva/vino-muller-thurgau-knizeci-sklepy-valtice-bag-in-box",
+    "data-product": "vino-muller-thurgau-knizeci-sklepy-valtice-bag-in-box"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Kn\u00ed\u017eec\u00ed sklepy Valtice - bag in box",
+    "amount": "5 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-knizeci-sklepy-valtice-bag-in-box",
+    "data-product": "vino-cabernet-sauvignon-knizeci-sklepy-valtice-bag-in-box"
+},
+{
+    "name": "Lik\u00e9r Prunus ochucen\u00fd Rudolf Jel\u00ednek",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/liker-prunus-ochuceny-rudolf-jelinek",
+    "data-product": "liker-prunus-ochuceny-rudolf-jelinek"
+},
+{
+    "name": "V\u00edna The Chalet",
+    "amount": "1 l",
+    "endpoint": "/sleva/vina-the-chalet",
+    "data-product": "vina-the-chalet"
+},
+{
+    "name": "Pivo Dolnob\u0159e\u017eansk\u00e1 10\u00b0 Oliv\u016fv pivovar",
+    "amount": "1 l",
+    "endpoint": "/sleva/pivo-dolnobrezanska-10-olivuv-pivovar",
+    "data-product": "pivo-dolnobrezanska-10-olivuv-pivovar"
+},
+{
+    "name": "V\u00edno Syrah ros\u00e9 Pays d'Oc Chevalier de Fauvert",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-syrah-rose-pays-doc-chevalier-de-fauvert",
+    "data-product": "vino-syrah-rose-pays-doc-chevalier-de-fauvert"
+},
+{
+    "name": "V\u00edno Chardonnay Bourgogne",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-bourgogne",
+    "data-product": "vino-chardonnay-bourgogne"
+},
+{
+    "name": "V\u00edno Pinot Blanc Jean Cornelius Alsace",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-pinot-blanc-jean-cornelius-alsace",
+    "data-product": "vino-pinot-blanc-jean-cornelius-alsace"
+},
+{
+    "name": "V\u00edno ros\u00e9 Pays D'h\u00e9rault Chevalier D'OR",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rose-pays-dherault-chevalier-dor",
+    "data-product": "vino-rose-pays-dherault-chevalier-dor"
+},
+{
+    "name": "V\u00edno Ros\u00e9 Cotes De Gascogne",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rose-cotes-de-gascogne",
+    "data-product": "vino-rose-cotes-de-gascogne"
+},
+{
+    "name": "V\u00edno Occitanie Cotes du Roussillon",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-occitanie-cotes-du-roussillon",
+    "data-product": "vino-occitanie-cotes-du-roussillon"
+},
+{
+    "name": "V\u00edno Pinot Noir Vin De France",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-pinot-noir-vin-de-france",
+    "data-product": "vino-pinot-noir-vin-de-france"
+},
+{
+    "name": "V\u00edno Languedoc",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-languedoc",
+    "data-product": "vino-languedoc"
+},
+{
+    "name": "V\u00edno Syrah Viognier Val de Salis Pays d'Oc",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-syrah-viognier-val-de-salis-pays-doc",
+    "data-product": "vino-syrah-viognier-val-de-salis-pays-doc"
+},
+{
+    "name": "V\u00edno Bordeaux Chateau La Croix Du Grand Jard Cotes",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-bordeaux-chateau-la-croix-du-grand-jard-cotes",
+    "data-product": "vino-bordeaux-chateau-la-croix-du-grand-jard-cotes"
+},
+{
+    "name": "V\u00edno \u010derven\u00e9 Bordeaux Superieur",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cervene-bordeaux-superieur",
+    "data-product": "vino-cervene-bordeaux-superieur"
+},
+{
+    "name": "V\u00edno Pinot Noir Bourgogne",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-pinot-noir-bourgogne",
+    "data-product": "vino-pinot-noir-bourgogne"
+},
+{
+    "name": "V\u00edno Chardonnay California Overseas",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-california-overseas",
+    "data-product": "vino-chardonnay-california-overseas"
+},
+{
+    "name": "V\u00edno Riesling",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-riesling",
+    "data-product": "vino-riesling"
+},
+{
+    "name": "V\u00edno Chardonnay Collection 1508 Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-collection-1508-zamecke-vinarstvi-bzenec-pozdni-sber",
+    "data-product": "vino-chardonnay-collection-1508-zamecke-vinarstvi-bzenec-pozdni-sber"
+},
+{
+    "name": "V\u00edno Mu\u0161k\u00e1t moravsk\u00fd Collection 1508 Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-muskat-moravsky-collection-1508-zamecke-vinarstvi-bzenec-pozdni-sber",
+    "data-product": "vino-muskat-moravsky-collection-1508-zamecke-vinarstvi-bzenec-pozdni-sber"
+},
+{
+    "name": "V\u00edno Sauvignon Collection 1508 Z\u00e1meck\u00e9 vina\u0159stv\u00ed Bzenec - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-collection-1508-zamecke-vinarstvi-bzenec-pozdni-sber",
+    "data-product": "vino-sauvignon-collection-1508-zamecke-vinarstvi-bzenec-pozdni-sber"
+},
+{
+    "name": "V\u00edno Tram\u00edn \u010dervenn\u00fd Vina\u0159stv\u00ed Ostrovec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-tramin-cervenny-vinarstvi-ostrovec",
+    "data-product": "vino-tramin-cervenny-vinarstvi-ostrovec"
+},
+{
+    "name": "V\u00edno Veltl\u00ednsk\u00e9 zelen\u00e9 Vina\u0159stv\u00ed Ostrovec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-veltlinske-zelene-vinarstvi-ostrovec",
+    "data-product": "vino-veltlinske-zelene-vinarstvi-ostrovec"
+},
+{
+    "name": "V\u00edno Chardonnay Vina\u0159stv\u00ed Ostrovec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-vinarstvi-ostrovec",
+    "data-product": "vino-chardonnay-vinarstvi-ostrovec"
+},
+{
+    "name": "V\u00edno Zweigeltrebe klaret Vina\u0159stv\u00ed Ostrovec",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-zweigeltrebe-klaret-vinarstvi-ostrovec",
+    "data-product": "vino-zweigeltrebe-klaret-vinarstvi-ostrovec"
+},
+{
+    "name": "V\u00edno Merlot Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-merlot-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-merlot-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Rulandsk\u00e9 b\u00edl\u00e9 Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-rulandske-bile-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-rulandske-bile-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Zweigeltrebe Barrique Hab\u00e1nsk\u00e9 sklepy - pozdn\u00ed sb\u011br",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-zweigeltrebe-barrique-habanske-sklepy-pozdni-sber",
+    "data-product": "vino-zweigeltrebe-barrique-habanske-sklepy-pozdni-sber"
+},
+{
+    "name": "V\u00edno Sauvignon V\u00edno z Kobyl\u00ed",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-vino-z-kobyli",
+    "data-product": "vino-sauvignon-vino-z-kobyli"
+},
+{
+    "name": "V\u00edno Ryzlink vla\u0161sk\u00fd V\u00edno z Kobyl\u00ed",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-ryzlink-vlassky-vino-z-kobyli",
+    "data-product": "vino-ryzlink-vlassky-vino-z-kobyli"
+},
+{
+    "name": "V\u00edno Chardonnay South Africa Overseas",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chardonnay-south-africa-overseas",
+    "data-product": "vino-chardonnay-south-africa-overseas"
+},
+{
+    "name": "V\u00edno Tempranillo Finca de la Vega",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-tempranillo-finca-de-la-vega",
+    "data-product": "vino-tempranillo-finca-de-la-vega"
+},
+{
+    "name": "V\u00edno Pinot Grigio Wein Genuss",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-pinot-grigio-wein-genuss",
+    "data-product": "vino-pinot-grigio-wein-genuss"
+},
+{
+    "name": "V\u00edno bio Merlot",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-bio-merlot",
+    "data-product": "vino-bio-merlot"
+},
+{
+    "name": "V\u00edno Chianti La Colonata",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-chianti-la-colonata",
+    "data-product": "vino-chianti-la-colonata"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 Sol",
+    "amount": "0.33 l",
+    "endpoint": "/sleva/pivo-svetle-sol",
+    "data-product": "pivo-svetle-sol"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Tiger",
+    "amount": "0.33 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-tiger",
+    "data-product": "pivo-svetle-vycepni-tiger"
+},
+{
+    "name": "Pivo ochucen\u00e9 Mort Subite",
+    "amount": "0.25 l",
+    "endpoint": "/sleva/pivo-ochucene-mort-subite",
+    "data-product": "pivo-ochucene-mort-subite"
+},
+{
+    "name": "Pivo sv\u011btl\u00e9 v\u00fd\u010depn\u00ed Birra Moretti",
+    "amount": "0.33 l",
+    "endpoint": "/sleva/pivo-svetle-vycepni-birra-moretti",
+    "data-product": "pivo-svetle-vycepni-birra-moretti"
+},
+{
+    "name": "Pivo Edelmeister",
+    "amount": "1.5 l",
+    "endpoint": "/sleva/pivo-edelmeister",
+    "data-product": "pivo-edelmeister"
+},
+{
+    "name": "Pivo sv\u011btl\u00fd le\u017e\u00e1k 12\u00b0 Ostravar - sud",
+    "amount": "15 l",
+    "endpoint": "/sleva/pivo-svetly-lezak-12-ostravar-sud",
+    "data-product": "pivo-svetly-lezak-12-ostravar-sud"
+},
+{
+    "name": "P\u00e1lenka Slivovice Vizovick\u00e1 Rudolf Jel\u00ednek",
+    "amount": "0.7 l",
+    "endpoint": "/sleva/palenka-slivovice-vizovicka-rudolf-jelinek",
+    "data-product": "palenka-slivovice-vizovicka-rudolf-jelinek"
+},
+{
+    "name": "P\u00e1lenky Rudolf Jel\u00ednek - d\u00e1rkov\u00e9 balen\u00ed",
+    "amount": "6 ks",
+    "endpoint": "/sleva/palenky-rudolf-jelinek-darkove-baleni",
+    "data-product": "palenky-rudolf-jelinek-darkove-baleni"
+},
+{
+    "name": "V\u00edno Pinot Noir Roche Mazet",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-pinot-noir-roche-mazet",
+    "data-product": "vino-pinot-noir-roche-mazet"
+},
+{
+    "name": "V\u00edno Cabernet Sauvignon Aurvin",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-cabernet-sauvignon-aurvin",
+    "data-product": "vino-cabernet-sauvignon-aurvin"
+},
+{
+    "name": "V\u00edno Sauvignon Blanc Aurvin",
+    "amount": "0.75 l",
+    "endpoint": "/sleva/vino-sauvignon-blanc-aurvin",
+    "data-product": "vino-sauvignon-blanc-aurvin"
+},
