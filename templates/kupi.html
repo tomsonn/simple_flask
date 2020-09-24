@@ -4,29 +4,20 @@
 	Kupi Scrapper
 {% endblock %}
 
-{% block styles %}
-	{{ super() }}
-	<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet">
+{% block content_title %}
+	Kupi Scrapper
 {% endblock %}
 
 {% block content %}
-	<div class=header>
-		<div class="title">
-			<p>Kupi Scrapper</p>
+	{{ super() }}
+	{% block kupi %}
+	<div class="scrapper">
+		<div class=buttons>
+			<a href="{{ url_for('kupi', kupi_type='categories') }}" class="button"><span class="button-title">Categories</span></a>
+			<a href="{{ url_for('kupi', kupi_type='shops') }}" class="button"><span class="button-title">Shops</span></a>
+		</div>
+		<div class="kupi-categories">
 		</div>
 	</div>
-	<div class="scrapper">
-		{% block kupi %}
-			{% block buttons %}
-			<div class=buttons>
-				<a href="{{ url_for('kupi', kupi_type='categories') }}" class="button"><span class="button-title">Categories</span></a>
-				<a href="{{ url_for('kupi', kupi_type='shops') }}" class="button"><span class="button-title">Shops</span></a>
-			</div>
-			{% endblock %}
-			<div class="kupi-categories">
-				{% block kupi_types %}
-				{% endblock %}
-			</div>
-		{% endblock %}
-	</div>
+	{% endblock %}
 {% endblock %}

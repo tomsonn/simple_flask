@@ -4,9 +4,12 @@
 	Stopwatch
 {% endblock %}
 
-{% block styles %}
+{% block content_title %}
+	Stopwatch
+{% endblock %}
+
+{% block content %}
 	{{ super() }}
-	<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap" rel="stylesheet">
 {% endblock %}
 
 {% block stopwatch %}
@@ -14,12 +17,9 @@
 		<p id="elapsedTime">0</p>
 	</div>
 
-	{% block button %}
 	<div class="stopwatch_buttons" align="center">
 		<input type="button" class="stopwatch_button" id="sw_start_btn" value="START"></button>
 	</div>
-	{%  endblock %}
-
 
 	<div class="elapsedLaps">
 		<div class="left" id="_laps">
