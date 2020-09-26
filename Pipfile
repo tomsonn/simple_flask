@@ -11,6 +11,7 @@ flask-bootstrap = "*"
 requests = "*"
 beautifulsoup4 = "*"
 simple-flask = {editable = true,path = "."}
+redis = "*"
 
 [requires]
 python_version = "3.7"

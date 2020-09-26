@@ -4,6 +4,10 @@
 	{{ super() }}
 {% endblock %}
 
+{% block content_title %}
+	Kupi Scrapper - Shops
+{% endblock %}
+
 {% block kupi_types %}
 	{% for key, value in shops.items() %}
 		<div class="category-item-left">

@@ -6,8 +6,7 @@
 
 {% block styles %}
 	{{ super() }}
-	<link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
 {% endblock %}
 
 {% block content_title %}
@@ -21,11 +20,11 @@
 			<p class="main-p top">This site was created for learning purposes. For now it does contain two main applications. The first is scrapper of <span class='bold'>Kupi.cz</span>. The second one is a simple <span class='bold'>stopwatch</span> application made in Javascript.</p>
 			<p class="main-p">More details about functionality of both - scrapper and stopwatch are in <span class="bold">About</span> section. There is a plan to add something more - some other <span class="bold">useless</span> application.
 		</div>
-		<div class="buttons center">
-			<a href="{{ url_for('kupi') }}" class="button">
+		<div class="buttons-navi center">
+			<a href="{{ url_for('kupi') }}" class="button-navi">
 				<span>Kupi Scrapper</span>
 			</a>
-			<a href="{{ url_for('stopwatch') }}" class="button">
+			<a href="{{ url_for('stopwatch') }}" class="button-navi">
 				<span>Stopwatch</span>
 			</a>
 		</div>

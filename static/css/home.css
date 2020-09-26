@@ -1,0 +1,41 @@
+.center {
+	top: 0%;
+	left: 50%;
+	transform: translate(-50%, 0%);
+}
+
+.content {
+	width: calc(100% - 40px);
+	height: 100%;
+	position: absolute;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.main-text {
+	position: relative;
+	padding-top: 10px;
+	width: 80%;
+	text-align: left;
+	font-family: 'Crimson Text', serif;
+	font-size: 30px;
+}
+
+.main-p {
+	display: inline-block;
+	position: relative;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 10px;
+}
+
+.main-p.top {
+	margin-bottom: 40px;
+}
+
+.bold {
+	font-weight: bold;
+}

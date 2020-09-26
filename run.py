@@ -1,32 +1,46 @@
 #!/usr/bin/env python3
 
-from flask import Flask, render_template, session, request, url_for
+import redis, json
+
+from flask import Flask
+from flask import render_template, session, request, url_for
 from flask_bootstrap import Bootstrap
 
 from classes.kupi_scrapper import KupiScrapper
+from utils.helpers import get_types_dict_from_redis, post_types_into_redis
 
+# Create instance of flask object
+# Invalidate cache after session is close
+# Use bootstrap template system for flask
 app = Flask(__name__)
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 bootstrap = Bootstrap(app)
 
+# Create redis connection to a server and automatically convert responses from `bytes` to `string`
+client = redis.Redis(host='127.0.0.1', port=6379, charset='utf-8', decode_responses=True)
+
 
 @app.route('/')
 def home():
-	return render_template('index.html')
+	return render_template('home.html')
 
-@app.route('/kupi/', defaults={'kupi_type': ''})
-@app.route('/kupi/<path:kupi_type>')
-def kupi(kupi_type):
-	if not kupi_type:
+@app.route('/kupi/', defaults={'kupi_group': ''})
+@app.route('/kupi/<path:kupi_group>')
+def kupi(kupi_group):
+	if not kupi_group:
 		return render_template('kupi.html')
-	if kupi_type == 'categories':
-		kupi_scrapper = KupiScrapper()
-		categories_dict = kupi_scrapper.scrape_categories()
-		return render_template('kupi-cats.html', categories=categories_dict)
-	elif kupi_type == 'shops':
-		kupi_scrapper = KupiScrapper()
-		shops_dict = kupi_scrapper.scrape_shops()
-		return render_template('kupi-shops.html', shops=shops_dict)
+
+	kupi_components_dict = get_types_dict_from_redis(client, kupi_group)
+	if not kupi_components_dict:
+		if kupi_group == 'categories':
+			kupi_scrapper = KupiScrapper()
+			kupi_components_dict = kupi_scrapper.scrape_categories()
+		elif kupi_group == 'shops':
+			kupi_scrapper = KupiScrapper()
+			kupi_components_dict = kupi_scrapper.scrape_shops()
+
+	post_types_into_redis(client, kupi_components_dict, kupi_group)
+	return render_template('kupi-types.html', kupi_components=kupi_components_dict, kupi_group=kupi_group)
 
 @app.route('/kupi/items')
 def items():
@@ -46,12 +60,6 @@ def logout():
 @app.route('/minigames/stopwatch')
 def stopwatch():
 	return render_template('stopwatch.html')
-
-@app.route('/minigames/cheap-food', methods=['POST', 'GET'])
-def cheap_food():
-	kupi_scrapper = KupiScrapper()
-	cat_resp = kupi_scrapper.scrape_categories()
-	return render_template('cheap_food.html', response=cat_resp)
 
 
 if __name__ == '__main__':

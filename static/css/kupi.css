@@ -1,23 +1,23 @@
-.scrapper {
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	margin-top: -20px;
-}
-
-.kupi-title {
-	position: absolute;
-	top: 0%;
+.center {
 	left: 50%;
 	transform: translate(-50%, 0%);
-	width: 30%;
-	height: 10%;
-	margin-top: 10px;
-	font-family: 'Merriweather', serif;
-	font-weight: 700;
-	font-size: 40px;
+}
+
+.scrapper {
+	position: relative;
+	width: calc(100% - 40px);
+	height: 100%;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 50px;
+}
+
+.description {
+	position: relative;
 	text-align: center;
-	padding-top: 10px;
+	width: 40%;
+	margin-top: 20px;
+	padding: 50px 50px 10px 50px;
 }
 
 .kupi-categories {
@@ -28,6 +28,22 @@
 	padding-top: 10px;
 }
 
+.category-items {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.category-items-left {
+	width: 50%;
+	float: left;
+}
+
+.category-items-right {
+	width: 50%;
+	float: left;
+}
+
 .category-item {
 	font-family: 'Merriweather', serif;
 	font-weight: 300;
@@ -36,48 +52,34 @@
 	text-align: center;
 }
 
-.category-item-left {
-	width: 50%;
-	float: left;
+/* /kupi/categories endpoint table */
+.container {
+    padding: 2rem 0rem;
 }
 
-.category-item-right {
-	width: 50%;
-	float: left;
+.table-bordered {
+	margin-top: 20px;
 }
 
-.buttons {
-	position: absolute;
-	top: 7%;
-	width: 20%;
-	height: 40px;
-	padding-top: 5px;
-	padding-left: 10px;
-	left: 5%;
+thead {
+	font-family: 'Merriweather', serif;
+	font-weight: 500;
+	font-size: 20px;
 }
 
-.button {
-	display: inline-block;
-	padding: 0.3em 1.2em;
-	margin: 0 0.3em 0.3em 0;
-	border-radius: 2em;
-	box-sizing: border-box;
-	text-decoration: none;
-	font-family: 'Roboto',sans-serif;
-	font-weight: 300;
-	color: #FFFFFF;
-	background-color: #4eb5f1;
-	text-align: center;
-	transition: all 0.2s;
+td {
+	font-family: 'Crimson Text', serif;
+	font-size: 18px;
+	text-align: left;
 }
 
-.button:hover {
-	background-color: #4095c6;
+.btn-primary {
+	font-family: "Montserrat", sans-serif;
+
 }
 
-@media all and (max-width: 30em) {
-	.button {
-		display:block;
-		margin: 0.2em auto;
-	}
+p {
+	margin-top: 5px;
+	margin-bottom: -5px;
 }
+
