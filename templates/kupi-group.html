@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block styles %}
+	{{ super() }}
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/kupi.css') }}">
+{% endblock %}
+
+{% block content_title %}
+	{% if kupi_group == 'categories' %}
+		Kupi Scrapper - Categories
+	{% elif kupi_group == 'shops' %}
+		Kupi Scrapper - Shops
+	{% elif kupi_group == 'subcategories' %}
+		Kupi Scrapper - Subcategories of <span class="category">{{ category|upper }}</span> category
+	{% elif kupi_group == 'items' %}
+		Kupi Scrapper - Items of <span class="category">{{ subcategory|upper}}</span> subcategory
+	{% endif %}
+{% endblock %}
+
+{% block content %}
+	{{ super() }}
+{% endblock %}
+
+{% block kupi %}
+<div class="scrapper">
+	<div class="container">
+	    <div class="row">
+	        <div class="col-12">
+	        	<table class="table table-bordered">
+		            <thead>
+		            	<tr>
+		            	  	<th scope="col">Category Name</th>
+		            	  	<th scope="col">Endpoint</th>
+		            	  	{% if kupi_group != 'items' %}
+		            	  		<th scope="col">Buttons</th>
+		            	  	{% endif %}
+		          		</tr>
+		        	</thead>
+		        	<tbody>
+		        		{% for key, value in kupi_components.items() %}
+		          		<tr>
+	            		    <td><p>{{ key }}</p></td>
+	            		    <td><p>{{ value }}</p></td>
+	            		    {% if kupi_group != 'items' %}
+		            		    <td>
+		            		    	{% if kupi_group == 'categories' %}
+		            		    		<a href="{{ url_for('subcategories', category_endpoint=value) }}" class="btn btn-primary">Show subcategories!</a>
+		            		    	{% elif kupi_group == 'shops' %}
+		            		    		<a href="{{ url_for('home') }}" class="btn btn-primary">Show shops!</a>
+		            		    	{% else %}
+		            		    		<a href="{{ url_for('items', subcategory_endpoint=value) }}" class="btn btn-primary">Show items!</a>
+		            		    	{% endif %}
+		            		    </td>
+		            		{% endif %}
+		            	</tr>
+		            	{% endfor %}
+		        	</tbody>
+	      		</table>
+	    	</div>
+	  	</div>
+	</div>
+</div>
+{% endblock %}

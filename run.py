@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 
-import redis, json
+import json
+import redis
 
 from flask import Flask
 from flask import render_template, session, request, url_for
 from flask_bootstrap import Bootstrap
 
 from classes.kupi_scrapper import KupiScrapper
-from utils.helpers import get_types_dict_from_redis, post_types_into_redis
+from utils.helpers import (get_dict_from_redis,
+						   store_subcategories_into_redis,
+						   store_types_into_redis)
 
 # Create instance of flask object
 # Invalidate cache after session is close
@@ -27,27 +30,138 @@ def home():
 @app.route('/kupi/', defaults={'kupi_group': ''})
 @app.route('/kupi/<path:kupi_group>')
 def kupi(kupi_group):
+	"""
+		Format of categories / shops dictionaries in Redis DB:
+
+		CATEGORIES:
+
+		'categories:{category_name_serialized}': {
+			'ID': ID,
+			'name': category_name_deserialized,
+			'data_category': category_name_serialized,
+			'endpoint': category_endpoint
+		}
+
+		SHOPS: 
+
+		'shops:{shop_name_serialized}': {
+			'ID': ID,
+			'name': shop_name_deserialized,
+			'data_shops': shop_name_serialized,
+			'endpoint': shop_endpoint
+		}
+	"""
+
+	# Render "homepage" of Kupi Scrapper app, if endpoint to kupi-group is not provided
 	if not kupi_group:
 		return render_template('kupi.html')
 
-	kupi_components_dict = get_types_dict_from_redis(client, kupi_group)
+	# Try to get list of components (shops / categories) from Redis DB. If the list is empty
+	# do a web scrapping
+	pattern = f'{kupi_group}*'
+	kupi_components_dict = get_dict_from_redis(client, pattern)
 	if not kupi_components_dict:
+		kupi_scrapper = KupiScrapper()
 		if kupi_group == 'categories':
-			kupi_scrapper = KupiScrapper()
 			kupi_components_dict = kupi_scrapper.scrape_categories()
 		elif kupi_group == 'shops':
-			kupi_scrapper = KupiScrapper()
 			kupi_components_dict = kupi_scrapper.scrape_shops()
 
-	post_types_into_redis(client, kupi_components_dict, kupi_group)
-	return render_template('kupi-types.html', kupi_components=kupi_components_dict, kupi_group=kupi_group)
+	store_types_into_redis(client, kupi_components_dict, kupi_group)
+	return render_template('kupi-group.html', kupi_components=kupi_components_dict, kupi_group=kupi_group)
+
+@app.route('/kupi/subcategories')
+def subcategories():
+	"""
+		Format of subcategories dictionaries in Redis DB:
+
+		'subcategories:{category_name_serialized}:{subcategory_name_serialized}' : {
+			'ID': ID
+			'name': subcategory_name_deserialized,
+			'data_category': subcategory_name_serialized,
+			'endpoint': subcategory_endpoint,
+			'category': category_name_serialized
+		}
+
+	"""
+
+	# Get category endpoint query parameter which we want to get subcategories from
+	kupi_group = 'subcategories'
+	category_endpoint = request.args.get('category_endpoint')
+	category_name_serialized = category_endpoint.split('/')[-1]
+	category_name_deserialized = client.hget(f'categories:{category_name_serialized}', 'name') or 'Unknown'
+
+	# Try to get list of subcategories from Redis DB. If the list is empty, proceed to website scrapping
+	pattern = f'subcategories:{category_name_serialized}:*'
+	subcategories_list = client.keys(pattern=pattern)
+	subcategories_from_one_category_dict = {}
+	if subcategories_list:
+		# Go thourgh every subcategory from desired category and store its `name` and `endpoint` into dictionary
+		for subcategory in subcategories_list:
+			subcategory_dict = client.hgetall(subcategory)
+			name = subcategory_dict['name']
+			endpoint = subcategory_dict['endpoint']
+			subcategories_from_one_category_dict[name] = endpoint
+	else:
+		kupi_scrapper = KupiScrapper()
+		subcategories_from_all_categories_dict = kupi_scrapper.scrape_subcategories(category_endpoint)
+		subcategories_from_one_category_dict = store_subcategories_into_redis(client,
+																			  subcategories_from_all_categories_dict,
+																			  category_name_serialized)
+
+	return render_template('kupi-group.html',
+							kupi_components=subcategories_from_one_category_dict,
+							kupi_group=kupi_group,
+							category=category_name_deserialized)
 
 @app.route('/kupi/items')
 def items():
+	"""
+		Format of items dictionaries in Redis DB:
+
+		'items:{category_name_srialized}:{subcategory_name_serialized}:{item_name_serialized}' : {
+			'ID': ID
+			'name': item_name_deserialized,
+			'data_product': item_name_serialized,
+			'category': category_name_serialized,
+			'subcategory': subcategory_name_serialized,
+			'endpoint': item_endpoint,
+			
+			TODO -> 'amount', 'shops', 'price' ... Decide whetere stored with general items info or in separate "table"
+		}
+	"""
+
+	kupi_group = 'items'
+	subcategory_endpoint = request.args.get('subcategory_endpoint')
+	subcategory_name_serialized = subcategory_endpoint.split('/')[-1]
+
+	# `subcategory_key` -> key in Redis DB where are stored informations about desired subcategory
+	subcategory_pattern = f'subcategories:*:{subcategory_name_serialized}'
+	subcategory_keys_list = client.keys(pattern=subcategory_pattern)
+	if len(subcategory_keys_list) == 1:
+		category_name_serialized = client.hget(subcategory_keys_list[0], 'name')
+		print(category_name_serialized)
+	else:
+		pass
+
+	# If it's not in Redis DB
 	kupi_scrapper = KupiScrapper()
+	# TODO -> if there are no items in discount return smth like 404 not found or whatever
+	# TODO -> Store items into Redis DB
+	# items are in format -> list[0][n]. n -> number of pages 
+	items_list = kupi_scrapper.scrape_all_items_by_subcategory(subcategory_endpoint)
+	print(json.dumps(items_list, indent=4))
+	return render_template('kupi-group.html', kupi_group=kupi_group, kupi_components=items_list[0][0])
+
+	items_list = client.keys()
+	items_list = client.keys(pattern=pattern)
+	pattern = f'items:{subcategory_name_endpoint}:*'
+	
 	categories_dict = kupi_scrapper.scrape_categories()
 	shops_dict = kupi_scrapper.scrape_shops()
-	kupi_scrapper.scrape_items_by_categories_and_shops(categories_dict, shops_dict)
+	
+
+	return render_template('kupi-group.html', kupi_group=kupi_group)
 
 @app.route('/login')
 def login():

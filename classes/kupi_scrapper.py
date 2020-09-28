@@ -1,11 +1,8 @@
-#!/usr/bin/env python3
-
 from classes.exceptions import PageNumberNotFoundError
 from utils.helpers import write_item_to_json
 
 from bs4 import BeautifulSoup
 
-import json
 import re
 import requests
 import sys
@@ -18,7 +15,7 @@ class KupiScrapper:
 
 	def __init__(self):
 		self.URL_BASE = 'https://www.kupi.cz'
-		self.ENDPOINT_DISCOUNTS = '/slevy'
+		self.ENDPOINT_DISCOUNTS = '/slevy/'
 		self.ENDPOINT_LEAFLETS = '/letaky/hypermarkety-a-supermarkety'
 
 	def get_html_from_url(self, url):
@@ -92,7 +89,7 @@ class KupiScrapper:
 
 		return shops_dict
 
-	def scrape_subcategories(self, categories):
+	def scrape_subcategories(self, categories_endpoint):
 		"""
 			Scrape subcategories of each category
 			Returns dictionary with categories and each category
@@ -105,7 +102,7 @@ class KupiScrapper:
 			}
 		"""
 
-		URL_SUBCATEGORIES = self.URL_BASE + list(categories.values())[0]
+		URL_SUBCATEGORIES = self.URL_BASE + categories_endpoint
 		subcategories_html = self.get_html_from_url(URL_SUBCATEGORIES)
 
 		try:
@@ -136,19 +133,22 @@ class KupiScrapper:
 			into JSON object.
 		"""
 
-		div_el = soup.find_all('div', {'class': 'relative right list_around right_side'})[0]
-		page_number_el = str(div_el.find_next_siblings('script')[0])
+		div_el = soup.find_all('div', {'class': 'relative list_around right_side right'})
+		if len(div_el): 
+			page_number_el = str(div_el[0].find_next_siblings('script')[0])
 
-		# Handling situation, when we couldn't parse page number from `script` HTML element 
-		# In that case exit with status 1
-		try:
-			page_number = int(self.get_page_number(page_number_el))
-		except PageNumberNotFoundError as e:
-			print(f'Error: {e}')
-			sys.exit(1)
-		except Exception as e:
-			print(f'Some Unexpected error occured: {e}')
-			sys.exit(1)
+			# Handling situation, when we couldn't parse page number from `script` HTML element 
+			# In that case exit with status 1
+			try:
+				page_number = int(self.get_page_number(page_number_el))
+			except PageNumberNotFoundError as e:
+				print(f'Error: {e}')
+				sys.exit(1)
+			except Exception as e:
+				print(f'Some Unexpected error occured: {e}')
+				sys.exit(1)
+		else:
+			page_number = 1
 
 		if actual_iteration_of_page != page_number:
 			return []
@@ -171,7 +171,6 @@ class KupiScrapper:
 		return items_on_page
 
 	def scrape_shops_from_item(self, item_el):
-		print(item_el.h2.a.get('title'))
 		item_details_table = item_el.findChildren('table', {'class': 'wide discounts_table'})[0]
 		item_details_rows = item_details_table.find_all('tr')
 		shops = []
@@ -221,15 +220,3 @@ class KupiScrapper:
 			return matches[0]
 		else:
 			raise PageNumberNotFoundError('Couldn\'t parse page number from HTML.')
-
-
-def main():
-	kupi_scrapper = KupiScrapper()
-	categories_dict = kupi_scrapper.scrape_categories()
-	shops_dict = kupi_scrapper.scrape_shops()
-	subcategories_dict = kupi_scrapper.scrape_subcategories(categories_dict)
-	items_subcategory = kupi_scrapper.scrape_all_items_by_subcategory('/slevy/ovoce-a-zelenina')
-
-
-if __name__ == '__main__':
-	main()

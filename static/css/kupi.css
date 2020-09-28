@@ -83,3 +83,7 @@ p {
 	margin-bottom: -5px;
 }
 
+span.category {
+	font-variant: initial;
+	font-style: italic;
+}
