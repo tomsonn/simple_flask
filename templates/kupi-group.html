@@ -29,19 +29,26 @@
 	        	<table class="table table-bordered">
 		            <thead>
 		            	<tr>
-		            	  	<th scope="col">Category Name</th>
+		            		<th scope="col">Category Name</th>
 		            	  	<th scope="col">Endpoint</th>
-		            	  	{% if kupi_group != 'items' %}
-		            	  		<th scope="col">Buttons</th>
-		            	  	{% endif %}
+		            		{% if kupi_group == 'items' %}
+		            			<th scope="col">Amount</th>
+		            			<th scope="col">Shops</th>
+		            		{% else %}
+		            			<th scope="col">Buttons</th>
+		            		{% endif %}
 		          		</tr>
 		        	</thead>
 		        	<tbody>
 		        		{% for key, value in kupi_components.items() %}
 		          		<tr>
 	            		    <td><p>{{ key }}</p></td>
-	            		    <td><p>{{ value }}</p></td>
-	            		    {% if kupi_group != 'items' %}
+	            		    {% if kupi_group == 'items' %}
+	            		    	<td><p>{{ value.endpoint }}</p></td>
+	            		    	<td><p>{{ value.amount }}</p></td>
+	            		    	<td><p>{{ value.shops[0] }}</p></td>
+	            		    {% else %}
+	            		    	<td><p>{{ value }}</p></td>
 		            		    <td>
 		            		    	{% if kupi_group == 'categories' %}
 		            		    		<a href="{{ url_for('subcategories', category_endpoint=value) }}" class="btn btn-primary">Show subcategories!</a>

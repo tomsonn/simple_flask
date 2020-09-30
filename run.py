@@ -139,8 +139,9 @@ def items():
 	subcategory_pattern = f'subcategories:*:{subcategory_name_serialized}'
 	subcategory_keys_list = client.keys(pattern=subcategory_pattern)
 	if len(subcategory_keys_list) == 1:
-		category_name_serialized = client.hget(subcategory_keys_list[0], 'name')
-		print(category_name_serialized)
+		category_name_deserialized = client.hget(subcategory_keys_list[0], 'name')
+		category_name_serialized = client.hget(subcategory_keys_list[0], 'data_category')
+		subcategory_name_serialized = client.hget(subcategory_keys_list[0], 'data_category')
 	else:
 		pass
 
@@ -150,8 +151,22 @@ def items():
 	# TODO -> Store items into Redis DB
 	# items are in format -> list[0][n]. n -> number of pages 
 	items_list = kupi_scrapper.scrape_all_items_by_subcategory(subcategory_endpoint)
+	items_dict = {}
+	for page in items_list:
+		for item in page:
+			name = item['name']
+			amount = item['amount']
+			endpoint = item['endpoint']
+			shops = item['shops']
+			items_dict[name] = {'amount': amount,
+								'endpoint': endpoint,
+								'shops': shops}
+								
 	print(json.dumps(items_list, indent=4))
-	return render_template('kupi-group.html', kupi_group=kupi_group, kupi_components=items_list[0][0])
+	return render_template('kupi-group.html',
+						    kupi_group=kupi_group,
+						    kupi_components=items_dict,
+						    subcategory=category_name_deserialized)
 
 	items_list = client.keys()
 	items_list = client.keys(pattern=pattern)
@@ -161,7 +176,7 @@ def items():
 	shops_dict = kupi_scrapper.scrape_shops()
 	
 
-	return render_template('kupi-group.html', kupi_group=kupi_group)
+	return render_template('kupi-group.html', kupi_group=kupi_group, subcategory=category_name_serialized)
 
 @app.route('/login')
 def login():
@@ -177,4 +192,4 @@ def stopwatch():
 
 
 if __name__ == '__main__':
-	app.run(debug=True)
+	app.run(debug=True, host='0.0.0.0')

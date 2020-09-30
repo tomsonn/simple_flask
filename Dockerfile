@@ -1,8 +1,11 @@
 FROM python:3.8-alpine
 
-COPY . .
+WORKDIR /simpleflask
+COPY . /simpleflask
 
 RUN pip3 install --upgrade pip && \
 	pip3 install --no-cache-dir -r requirements.txt
 
-CMD ["python3", "run.py"]
+EXPOSE 5001
+
+CMD ["./run.py"]
